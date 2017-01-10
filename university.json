@@ -1,0 +1,2046 @@
+﻿{
+	"university":[
+	{	
+		"id" : "1",
+		"name" : "Học viện Công nghệ Bưu chính Viễn thông",
+		"abbreviation" : "PTIT",
+		"logo" : "1.png",
+		"address" : "K10 P. Mộ Lao, Km10, Đường Nguyễn Trãi, Q. Đông, Hà, Nguyễn Trãi, Hà Đông, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		] 
+	},
+	{
+		"id" : "2",
+		"name" : "Đại học Công nghệ Giao Thông Vận Tải",
+		"abbreviation" : "UTT",
+		"logo" : "2.png",
+		"address" : "54 Triều Khúc, Thanh Xuân Nam, Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		] 
+	},
+	{
+		"id" : "3",
+		"name" : "Đại học Hà Nội",
+		"abbreviation" : "HANU",
+		"logo" : "3.png",
+		"address" : "Km 9 Nguyễn Trãi, Trung Văn, Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}	
+		] 
+	},
+	{
+		"id" : "4",
+		"name" : "Đại học Sư phạm Nghệ thuật Trung ương",
+		"abbreviation" : "NUAE",
+		"logo" : "4.png",
+		"address" : "Km9+200, Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		]
+	},
+	{
+		"id" : "5",
+		"name" : "Học viện Cán bộ Quản lý Xây dựng và Đô thị",
+		"abbreviation" : "AMC",
+		"logo" : "5.png",
+		"address" : "Km10, Văn Quán, Hà Đông, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		] 
+	},
+	{
+		"id" : "6",
+		"name" : "Đại học Kiến trúc Hà Nội",
+		"abbreviation" : "HAU",
+		"logo" : "6.png",
+		"address" : "10 đường Nguyễn Trãi, Văn Quán, Hà Đông, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		]
+	},
+	{
+		"id" : "7",
+		"name" : "Học viện Kỹ thuật Mật mã",
+		"abbreviation" : "ACT",
+		"logo" : "7.png",
+		"address" : "141 Chiến Thắng, Tân Triều, Thanh Trì, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		]
+	},
+	{
+		"id" : "8",
+		"name" : "Học viện An ninh Nhân dân",
+		"abbreviation" : "C500",
+		"logo" : "8.png",
+		"address" : "KM9 Trần Phú, Văn Quán, Hà Đông, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		]
+	},
+	{
+		"id" : "9",
+		"name" : "Học viện Y dược học cổ truyền Việt Nam",
+		"abbreviation" : "VUTM",
+		"logo" : "9.png",
+		"address" : "2 Trần Phú, Mộ Lao, Hà Đông, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "39"
+			}
+		]
+	},
+	{
+		"id" : "10",
+		"name" : "Đại học Bách Khoa Hà Nội",
+		"abbreviation" : "HUST",
+		"logo" : "10.png",
+		"address" : "1 Đại Cồ Việt, Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+		"bus" : [
+			{
+				"number": "03"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "25"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "41"
+			}
+		]
+	},
+	{
+		"id" : "11",
+		"name" : "Đại học Giao Thông Vận Tải ",
+		"abbreviation" : "UTC",
+		"logo" : "11.png",
+		"address" : "Số 3 Cầu Giấy, Láng Thượng, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "09"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "26"
+			},
+
+			{
+				"number": "27"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "49"
+			},
+			{
+				"number": "55"
+			}
+		]
+	},
+	{
+		"id" : "12",
+		"name" : "Học viện Báo chí và Tuyên truyền",
+		"abbreviation" : "AJC",
+		"logo" : "12.png",
+		"address" : "36 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "13",
+		"name" : "Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Hà Nội",
+		"abbreviation" : "HUS",
+		"logo" : "13.png",
+		"address" : "334 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "05"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "29"
+			},
+			{
+				"number": "44"
+			}
+
+		]
+	},
+	{
+		"id" : "14",
+		"name" : "Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia Hà Nội",
+		"abbreviation" : "USSH",
+		"logo" : "14.png",
+		"address" : "336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "05"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "29"
+			},
+			{
+				"number": "39"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "15",
+		"name" : "Đại học Ngoại thương",
+		"abbreviation" : "FTU",
+		"logo" : "15.png",
+		"address" : "91 Chùa Láng, Láng Thượng, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "16",
+		"name" : "Học viện Ngoại giao Việt Nam",
+		"abbreviation" : "DAV",
+		"logo" : "16.png",
+		"address" : "69 Chùa Láng, Láng Thượng, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "17",
+		"name" : "Đại học Sư Phạm Hà Nội ",
+		"abbreviation" : "HNUE",
+		"logo" : "17.png",
+		"address" : "136 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "13"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "18",
+		"name" : "Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội",
+		"abbreviation" : "ULIS",
+		"logo" : "18.png",
+		"address" : "1 Phạm Văn Đồng, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			},
+			{
+				"number": "13"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "49"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "19",
+		"name" : "Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội",
+		"abbreviation" : "UET",
+		"logo" : "19.png",
+		"address" : "144 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			},
+			{
+				"number": "13"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "49"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "20",
+		"name" : "Trường Đại học Kinh tế - Đại học Quốc gia Hà Nội",
+		"abbreviation" : "UEB",
+		"logo" : "20.png",
+		"address" : "144 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			},
+			{
+				"number": "13"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "49"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "21",
+		"name" : "Học viện Ngân hàng",
+		"abbreviation" : "BA",
+		"logo" : "21.png",
+		"address" : "Số 12 Chùa Bộc, Ngõ 12 - Chùa Bộc, Quang Trung, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "12"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "51"
+			}
+		]
+	},
+	{
+		"id" : "22",
+		"name" : "Đại học Công Đoàn",
+		"abbreviation" : "TUU",
+		"logo" : "22.png",
+		"address" : "169 Tây Sơn, Quang Trung, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "30"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "51"
+			}
+		]
+	},
+	{
+		"id" : "23",
+		"name" : "Đại học Công nghiệp Hà Nội",
+		"abbreviation" : "HAUI",
+		"logo" : "23.png",
+		"address" : "QL32, Nhổn, Minh Khai, Bắc Từ Liêm, Nhổn, Minh Khai Từ Liêm Hà Nội",
+		"bus" : [
+			{
+				"number": "20"
+			},
+			{
+				"number": "29"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "57"
+			}
+		] 
+	},
+	{
+		"id" : "24",
+		"name" : "Đại học Thăng Long ",
+		"abbreviation" : "TLU",
+		"logo" : "24.png",
+		"address" : "Nghiêm Xuân Yêm, Kim Văn, Đại Kim, Hoàng Mai, Hà Nội",
+		"bus" : [
+			{
+				"number": "29"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "25",
+		"name" : "Đại học Dược Hà Nội",
+		"abbreviation" : "HUP",
+		"logo" : "25.png",
+		"address" : "13-15 Lê Thánh Tông, Phan Chu Trinh, Hoàn Kiếm, Hà Nội",
+		"bus" : [
+			{
+				"number": "02"
+			},
+			{
+				"number": "03"
+			},
+			{
+				"number": "04"
+			},
+			{
+				"number": "11"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "36"
+			},
+			{
+				"number": "40"
+			},
+			{
+				"number": "42"
+			},
+			{
+				"number": "43"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "45"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "26",
+		"name" : "Đại học Đại Nam",
+		"abbreviation" : "DNU",
+		"logo" : "26.png",
+		"address" : " 56 Vũ Trọng Phụng, Thanh Xuân, Hà Nộ",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "05"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "29"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "27",
+		"name" : "Đại học Điện Lực",
+		"abbreviation" : "EPU",
+		"logo" : "27.png",
+		"address" : "235 Hoàng Quốc Việt, Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "49"
+			},
+			{
+				"number": "07"
+			},
+			{
+				"number": "14"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "45"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "53"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "28",
+		"name" : "Cao đẳng Du lịch Hà Nội",
+		"abbreviation" : "HTC",
+		"logo" : "28.png",
+		"address" : "236 Hoàng Quốc Việt, Cổ Nhuế 1, Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "14"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "45"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "53"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "29",
+		"name" : "Đại học Dân Lập Đông Đô ",
+		"abbreviation" : "HDIU",
+		"logo" : "29.png",
+		"address" : "170, Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "12"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "30",
+		"name" : "Đại học Kinh doanh và Công nghệ Hà Nội",
+		"abbreviation" : "HUBT",
+		"logo" : "30.png",
+		"address" : "Ngõ 124 Vĩnh Tuy, Thanh Trì, Hai Bà Trưng, Thanh Trì Hoàng Mai Hà Nội",
+		"bus" : [
+			{
+				"number": "19"
+			},
+			{
+				"number": "24"
+			}
+		]
+	},
+	{
+		"id" : "31",
+		"name" : "Đại học Kinh tế - Kỹ thuật Công nghiệp",
+		"abbreviation" : "UNETI",
+		"logo" : "31.png",
+		"address" : "456 - Minh Khai, Hà Nội",
+		"bus" : [
+			{
+				"number": "04"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "30"
+			},
+			{
+				"number": "36"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "42"
+			},
+			{
+				"number": "52"
+			}
+		]
+	},
+	{
+		"id" : "32",
+		"name" : "Đại học Kinh tế Quốc Dân",
+		"abbreviation" : "NEU",
+		"logo" : "32.png",
+		"address" : "207 Giải Phóng, Đồng Tâm, Hai Bà Trưng, Hà Nội",
+		"bus" : [
+			{
+				"number": "03"
+			},
+			{
+				"number": "08"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "25"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "41"
+			}
+		]
+	},
+	{
+		"id" : "33",
+		"name" : "Đại học Lao động - Xã hội",
+		"abbreviation" : "ULSA",
+		"logo" : "33.png",
+		"address" : "43 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "16"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "33"
+			},
+			{
+				"number": "50"
+			},
+			{
+				"number": "51"
+			}
+		]
+	},
+	{
+		"id" : "34",
+		"name" : "Đại học Luật Hà Nội",
+		"abbreviation" : "HLU",
+		"logo" : "34.png",
+		"address" : "87 Nguyễn Chí Thanh, Thành Công, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "35",
+		"name" : "Học viện Hành chính Quốc gia",
+		"abbreviation" : "NAPA",
+		"logo" : "35.png",
+		"address" : "77 Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "36",
+		"name" : "Đại học Mỏ - Địa chất",
+		"abbreviation" : "HUMG",
+		"logo" : "36.png",
+		"address" : "18 Phường Đức Thắng, Đức Thắng, Bắc Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "28"
+			},
+			{
+				"number": "31"
+			}
+		]
+	},
+	{
+		"id" : "37",
+		"name" : "Học viện Tài chính",
+		"abbreviation" : "AOF",
+		"logo" : "37.png",
+		"address" : "Nông Lâm, Đức Thắng, Bắc Từ Liêm, Đức Thắng Từ Liêm Hà Nội",
+		"bus" : [
+			{
+				"number": "28"
+			},
+			{
+				"number": "31"
+			}
+		]
+	},
+	{
+		"id" : "38",
+		"name" : "Đại học Mỹ thuật Công nghiệp",
+		"abbreviation" : "UIFA",
+		"logo" : "38.png",
+		"address" : "Ngõ 360 La Thành, Ô Chợ Dừa, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "23"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "39",
+		"name" : "Đại học Văn hóa Hà Nội",
+		"abbreviation" : "HUC",
+		"logo" : "39.png",
+		"address" : "418 La Thành, Ô Chợ Dừa, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "18"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "33"
+			},
+			{
+				"number": "49"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "40",
+		"name" : "Đại học Mỹ Thuật Việt Nam",
+		"abbreviation" : "VUFA",
+		"logo" : "40.png",
+		"address" : "Yết Kiêu Cửa Nam Hoàn Kiếm, 42 Yết Kiêu, Cửa Nam, Hoàn Kiếm, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "03"
+			},
+			{
+				"number": "11"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "40"
+			},
+			{
+				"number": "41"
+			},
+			{
+				"number": "43"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "41",
+		"name" : "Học viện Nông nghiệp Việt Nam",
+		"abbreviation" : "VNUA",
+		"logo" : "41.png",
+		"address" : "Trâu Quỳ - Gia Lâm - Hà Nội",
+		"bus" : [
+			{
+				"number": "11"
+			},
+			{
+				"number": "35"
+			}
+		]
+	},
+	{
+		"id" : "42",
+		"name" : "Đại học Phương Đông",
+		"abbreviation" : "PDU",
+		"logo" : "42.png",
+		"address" : "171 Trung Kính, Yên Hoà, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "36"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "51"
+			},
+			{
+				"number": "52"
+			}
+		]
+	},
+	{
+		"id" : "43",
+		"name" : "Đại Học Răng Hàm Mặt",
+		"abbreviation" : "UOS",
+		"logo" : "43.png",
+		"address" : "40 Tràng Thi, Hàng Bông, Hoàn Kiếm, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "09"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "40"
+			},
+			{
+				"number": "45"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "44",
+		"name" : "Đại học Thương mại",
+		"abbreviation" : "VCU",
+		"logo" : "44.png",
+		"address" : "79 Hồ Tùng Mậu, Mai Dịch, Cầu Giấy, Mai Dịch Cầu Giấy Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			},
+			{
+				"number": "13"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "29"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "45",
+		"name" : "Đại học Sân Khấu Điện Ảnh",
+		"abbreviation" : "SKDA",
+		"logo" : "45.png",
+		"address" : "Mai Dịch, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			},
+			{
+				"number": "13"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "29"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "46",
+		"name" : "Đại học Thủy Lợi",
+		"abbreviation" : "WRU",
+		"logo" : "46.png",
+		"address" : "175 Tây Sơn, Trung Liệt, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "30"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "51"
+			}
+		]
+	},
+	{
+		"id" : "47",
+		"name" : "Đại học Y Hà Nội ",
+		"abbreviation" : "HMU",
+		"logo" : "47.png",
+		"address" : "1 Tôn Thất Tùng, Trung Tự, Hà Nội, Trung Tự Đống Đa Hà Nội",
+		"bus" : [
+			{
+				"number": "12"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "24"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "44"
+			},
+			{
+				"number": "51"
+			}
+		]
+	},
+	{
+		"id" : "48",
+		"name" : "Đại Học Xây Dựng",
+		"abbreviation" : "NUCE",
+		"logo" : "48.png",
+		"address" : "55 Giải Phóng, Đồng Tâm, Hà Nội, Đồng Tâm Hai Bà Trưng, Hà Nội",
+		"bus" : [
+			{
+				"number": "03"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "25"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "31"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "41"
+			}
+		]
+	},
+	{
+		"id" : "49",
+		"name" : "Học viện Chính trị Quốc gia Hồ Chí Minh",
+		"abbreviation" : "HCMA",
+		"logo" : "49.png",
+		"address" : "135 Nguyễn Phong Sắc – Nghĩa Tân – Cầu Giấy – Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "13"
+			},
+			{
+				"number": "14"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "45"
+			},
+			{
+				"number": "53"
+			}
+		]
+	},
+	{
+		"id" : "50",
+		"name" : "Học viện Kỹ Thuật Quân Sự ",
+		"abbreviation" : "MTA",
+		"logo" : "50.png",
+		"address" : "236 Hoàng Quốc Việt, Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "14"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "45"
+			}
+		]
+	},
+	{
+		"id" : "51",
+		"name" : "Đại học Mở Hà Nội ",
+		"abbreviation" : "HOU",
+		"logo" : "51.png",
+		"address" : "Nguyễn Hiền, Bách Khoa, Hai Bà Trưng, Hà Nội",
+		"bus" : [
+			{
+				"number": "08"
+			},
+			{
+				"number": "18"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "31"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "52"
+			}
+		]
+	},
+	{
+		"id" : "52",
+		"name" : "Đại học FPT",
+		"abbreviation" : "FPT",
+		"logo" : "52.png",
+		"address" : "Khu Giáo dục và Đào tạo - Khu Công nghệ cao Hòa Lạc - Km29 Đại lộ Thăng Long, Thạch Thất, TP. Hà Nội",
+		"bus" : [
+			{
+				"number": "26"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "53",
+		"name" : "Đại học Tài Nguyên và Môi Trường Hà Nội ",
+		"abbreviation" : "HUNRE",
+		"logo" : "53.png",
+		"address" : "41A Phú Diễn, Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "05"
+			}
+		]
+	},
+	{
+		"id" : "54",
+		"name" : "Học viện Cảnh sát Nhân dân",
+		"abbreviation" : "T32",
+		"logo" : "54.png",
+		"address" : "Ngõ 145, Cổ Nhuế 2, Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "13"
+			}
+		]
+	},
+	{
+		"id" : "55",
+		"name" : "Đại học Nội Vụ Hà Nội",
+		"abbreviation" : "HUHA",
+		"logo" : "55.png",
+		"address" : "36 Xuân La, Tây Hồ, Hà Nội",
+		"bus" : [
+			{
+				"number": "25"
+			},
+			{
+				"number": "33"
+			}
+		]
+	},
+	{
+		"id" : "56",
+		"name" : "Đại học Phòng Cháy Chữa Cháy",
+		"abbreviation" : "T34",
+		"logo" : "56.png",
+		"address" : "243 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "22"
+			},
+			{
+				"number": "39"
+			}
+		]
+	},
+	{
+		"id" : "57",
+		"name" : "Đại học Nguyễn Trãi",
+		"abbreviation" : "NTU",
+		"logo" : "57.png",
+		"address" : "266 Đội Cấn, Liễu Giai, Ba Đình, Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "14"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "45"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "53"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "58",
+		"name" : "Học viện Quản lý Giáo dục",
+		"abbreviation" : "NIEM",
+		"logo" : "58.png",
+		"address" : "31 Phan Đình Giót, Phương Liệt, Thanh Xuân, Hà Nội",
+		"bus" : [
+			{
+				"number": "03"
+			},
+			{
+				"number": "08"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "25"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "41"
+			}
+		]
+	},
+	{
+		"id" : "59",
+		"name" : "Học viện Phụ nữ Việt Nam",
+		"abbreviation" : "VWA",
+		"logo" : "59.png",
+		"address" : "68 Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "33"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "60",
+		"name" : "Trường Đại học Văn hóa - Nghệ thuật Quân đội",
+		"abbreviation" : "VNQ",
+		"logo" : "60.png",
+		"address" : "101 Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội",
+		"bus" : [
+			{
+				"number": "09"
+			},
+			{
+				"number": "12"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "33"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "50"
+			}
+		]
+	},
+	{
+		"id" : "61",
+		"name" : "Đại học Y tế Cộng Đồng ",
+		"abbreviation" : "HUPH",
+		"logo" : "61.png",
+		"address" : "Đức Thắng, Bắc Từ Liêm, Hà Nội",
+		"bus" : [
+			{
+				"number": "18"
+			},
+			{
+				"number": "22"
+			},
+			{
+				"number": "23"
+			},
+			{
+				"number": "25"
+			},
+			{
+				"number": "33"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "62",
+		"name" : "Đại học Thành Đô",
+		"abbreviation" : "TDU",
+		"logo" : "62.png",
+		"address" : "QL32, Kim Chung, Hoài Đức, Hà Nội",
+		"bus" : [
+			{
+				"number": "20"
+			},
+			{
+				"number": "29"
+			}
+		]
+	},
+	{
+		"id" : "63",
+		"name" : "Đại học Thủ đô Hà Nội",
+		"abbreviation" : "HMU",
+		"logo" : "63.png",
+		"address" : "Số 98, phố Dương Quảng Hàm - Cầu Giấy - Hà Nội",
+		"bus" : [
+			{
+				"number": "12"
+			},
+			{
+				"number": "38"
+			}
+		]
+	},
+	{
+		"id" : "64",
+		"name" : "Cao đẳng Điện tử - Điện lạnh Hà Nội",
+		"abbreviation" : "DTDL",
+		"logo" : "64.png",
+		"address" : "86 Ngõ 86 Chùa Hà, Quan Hoa, Cầu Giấy, Quan Hoa Cầu Giấy Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "16"
+			},
+			{
+				"number": "20"
+			},
+			{
+				"number": "26"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "28"
+			},
+			{
+				"number": "32"
+			},
+			{
+				"number": "34"
+			},
+			{
+				"number": "35"
+			},
+			{
+				"number": "49"
+			}
+		]
+	},
+	{
+		"id" : "65",
+		"name" : "Cao đẳng Thương mại và Du lịch ",
+		"abbreviation" : "HCCT",
+		"logo" : "65.png",
+		"address" : "Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "13"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "46"
+			},
+			{
+				"number": "60"
+			}
+		]
+	},
+	{
+		"id" : "66",
+		"name" : "Đại học Công nghiệp Dệt May Hà Nội",
+		"abbreviation" : "HICT",
+		"logo" : "66.png",
+		"address" : "Lệ Chi - Gia Lâm - Hà Nội",
+		"bus" : [
+			{
+				"number": "52"
+			}
+		]
+	},
+	{
+		"id" : "67",
+		"name" : "Cao đẳng Kinh tế Kỹ thuật Hà Nội",
+		"abbreviation" : "HCET",
+		"logo" : "67.png",
+		"address" : "Số 9 Trần Vỹ, Mai Dịch, Cầu Giấy, Hà Nội ",
+		"bus" : [
+			{
+				"number": "01"
+			},
+			{
+				"number": "02"
+			},
+			{
+				"number": "19"
+			},
+			{
+				"number": "21"
+			},
+			{
+				"number": "27"
+			},
+			{
+				"number": "37"
+			},
+			{
+				"number": "57"
+			},
+			{
+				"number": "62"
+			}
+		]
+	},
+	{
+		"id" : "68",
+		"name" : "Cao Đẳng Kinh Tế Công Nghiệp Hà Nội",
+		"abbreviation" : "HIEC",
+		"logo" : "68.png",
+		"address" : "Cầu Bươu, Tả Thanh Oai, Thanh Trì, Hà Nội",
+		"bus" : [
+			{
+				"number": "39"
+			},
+			{
+				"number": "62"
+			}
+		]
+	},
+	{
+		"id" : "69",
+		"name" : "Học viện Quân Y",
+		"abbreviation" : "VMMU",
+		"logo" : "69.png",
+		"address" : "Số 160 - Đường Phùng Hưng - Phường Phúc La - Quận Hà Đông - Thành phố Hà Nội",
+		"bus" : [
+			{
+				"number": "22"
+			},
+			{
+				"number": "37"
+			},
+			{
+				"number": "39"
+			},
+			{
+				"number": "62"
+			}
+		]
+	},
+	{
+		"id" : "70",
+		"name" : "Cao đẳng Sư Phạm Trung Ương",
+		"abbreviation" : "NCE",
+		"logo" : "70.png",
+		"address" : "Hoàng Quốc Việt, Quận Cầu Giấy, Cầu Giấy, Hà Nội",
+		"bus" : [
+			{
+				"number": "07"
+			},
+			{
+				"number": "14"
+			},
+			{
+				"number": "38"
+			},
+			{
+				"number": "45"
+			}
+		]
+	}
+	]
+}
