@@ -1,0 +1,14 @@
+diff a/bus.json b/bus.json	(rejected hunks)
+@@ -16,11 +16,7 @@
+             "frequency" : "5- 10-15 phút/chuyến",
+             "price" : "7000đ/lượt",
+             "go" : "Bác Cổ (Bãi đỗ xe Trần Khánh Dư) - Trần Khánh Dư (đường dưới) - Trần Hưng Đạo - Lê Thánh Tông - Tràng Tiền - Hàng Khay - Tràng Thi - Điện Biên Phủ - Trần Phú - Chu Văn An - Tôn Đức Thắng - Ô Chợ Dừa - Quay đầu tại điểm mở dải phân cách - Ô Chợ Dừa - Nguyễn Lương Bằng - Tây Sơn - Ngã tư Sở - Nguyễn Trãi - Hầm chui Thanh Xuân - Nguyễn Trãi - Trần Phú (Hà Đông) - Quang Trung (Hà Đông) - Ba La - Quốc lộ 6 - Bến xe Yên Nghĩa",
+-            "back" : "Bến xe Yên Nghĩa - Quốc lộ 6 - Ba La - Quang Trung (Hà Đông) - Trần Phú (Hà Đông) - Nguyễn Trãi - Hầm chui Thanh Xuân - Nguyễn Trãi - Ngã tư Sở - Tây Sơn - Nguyễn Lương Bằng - Xã Đàn - Quay đầu tại đối diện ngõ Xã Đàn 2 - Xã Đàn - Tôn Đức Thắng - Nguyễn Thái Học - Phan Bội Châu - Hai Bà Trưng - Phan Chu Trinh - Tràng Tiền - Bác Cổ (Bãi đỗ xe Trần Khánh Dư)",
+-            "latitudeX" : "21.020928",
+-            "longitudeX" : "105.861644",
+-            "latitudeY" : "20.949982",
+-            "longitudeY" : "105.747324"
++            "back" : "Bến xe Yên Nghĩa - Quốc lộ 6 - Ba La - Quang Trung (Hà Đông) - Trần Phú (Hà Đông) - Nguyễn Trãi - Hầm chui Thanh Xuân - Nguyễn Trãi - Ngã tư Sở - Tây Sơn - Nguyễn Lương Bằng - Xã Đàn - Quay đầu tại đối diện ngõ Xã Đàn 2 - Xã Đàn - Tôn Đức Thắng - Nguyễn Thái Học - Phan Bội Châu - Hai Bà Trưng - Phan Chu Trinh - Tràng Tiền - Bác Cổ (Bãi đỗ xe Trần Khánh Dư)"
+         },
+         {
+             "id" : "03",
