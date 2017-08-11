@@ -7,6 +7,7 @@
                     "name": "Lasoba - Bánh Mì Nướng Lạng Sơn",
                     "address": "8 Ngõ 1 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/VL923xI.jpg",
+                    "phone": "098 112 55 52",
                     "time": "07:30 AM - 09:30 PM",
                     "price": "4.000đ - 16.000đ"
                 },
@@ -14,6 +15,7 @@
                     "name": "Trà Sữa San San - Ao Sen",
                     "address": "3 Ngõ 5 Ao Sen, Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/gCuBWFG.jpg",
+                    "phone": "098 792 87 66",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -21,6 +23,7 @@
                     "name": "Siêu Chảo FA - Bánh Mì Chảo - Ao Sen",
                     "address": "11B Ngõ 3 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/U9TIXyg.jpg",
+                    "phone": "0165 582 1687",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -28,6 +31,7 @@
                     "name": "Niêu Sumo - Food & Drink",
                     "address": "8 Ngõ 3, Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/MJBLmh6.jpg",
+                    "phone": "0166 515 9538",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -35,6 +39,7 @@
                     "name": "Tiktak - Đồ Ăn Ngon Hàn Quốc",
                     "address": "12B Ngõ 2 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/vHXs8jq.jpg",
+                    "phone": "0964 131 918",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "15.000đ - 55.000đ"
                 },
@@ -42,6 +47,7 @@
                     "name": "Thỏ - Fastfood & Drinks",
                     "address": "4 Ngõ 5 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/BCG5iKa.jpg",
+                    "phone": "0912 730 781",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "10.000đ - 35.000đ"
                 },
@@ -49,20 +55,23 @@
                     "name": "Giang Béo - Bún Đậu Mắm Tôm",
                     "address": "18A Ngõ 3 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/6MmnmPR.jpg",
+                    "phone": "0934 465 456",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
                 {
                     "name": "Bánh Mì Cô Thu",
                     "address": "10 Ngõ 2 Ao Sen, Quận Hà Đông, Hà Nội",
-                    "image": "http://i.imgur.com/J3vb8vj.jpg",
+                    "image": "http://i.imgur.com/J3vb8vj.jpg",                    
+                    "phone": "0934 465 456",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "6.000đ - 30.000đ"
                 },
                 {
-                    "name": "Cơm Tấm Giáp Phương ",
+                    "name": "Cơm Tấm Giáp Phương",
                     "address": "78 Ngõ 1 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/x06MnF7.jpg",
+                    "phone": "0968 758 706",
                     "time": "06:00 AM - 03:00 PM",
                     "price": "25.000đ - 35.000đ"
                 },
@@ -70,6 +79,7 @@
                     "name": "Pizza Hut",
                     "address": "KĐT Mới Mỗ Lao, Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/IhtZTq5.jpg",
+                    "phone": "1900 1822",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 350.000đ"
                 },
@@ -77,6 +87,7 @@
                     "name": "Mr.Khói - Bánh Mì Nướng",
                     "address": "7B Ngõ 6 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/A8sUTVB.jpg",
+                    "phone": "0983 780 705",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "10.000đ - 10.000đ"
                 },
@@ -84,6 +95,7 @@
                     "name": "Secret Garden Cafe",
                     "address": "Ngõ 8 Ao Sen, P. Mỗ Lao, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/K3KyPo9.jpg",
+                    "phone": "0913 231 282",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -91,6 +103,7 @@
                     "name": "Gấu Quán - Trái Cây Xô Tự Chọn & Đồ Ăn Vặt",
                     "address": "16B Ngõ 5 Ao Sen, P. Mộ Lao, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/sI6OlPy.jpg",
+                    "phone": "0949 558 647",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 35.000đ"
                 },
@@ -98,6 +111,7 @@
                     "name": "Thùy Chi Quán - Fastfood & Drink",
                     "address": "9 Nguyễn Văn Trỗi, P. Mỗ Lao, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/Ds7YWlq.jpg",
+                    "phone": "0987 470 907",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "3.000đ - 30.000đ"
                 },
@@ -105,6 +119,7 @@
                     "name": "Vi Linh - Bánh Cuốn Chả & Bún Các Loại",
                     "address": "50 Nguyễn Văn Trỗi, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/qQd51Be.jpg",
+                    "phone": "0987 470 907",
                     "time": "06:00 AM - 10:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -112,6 +127,7 @@
                     "name": "Ngọc Thu - Bún & Phở",
                     "address": "19B Ngõ 2 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/yZeJVk0.jpg",
+                    "phone": "0912 891 168",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "20.000đ - 40.000đ"
                 }
@@ -124,13 +140,15 @@
                     "name": "Ốc Bình Dân",
                     "address": "51 Ngõ 68 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/cWIAEao.jpg",
+                    "phone": "0989 790 064",
                     "time": "05:00 PM - 11:30 PM",
                     "price": "50.000đ - 80.000đ"
                 },
                 {
-                    "name": "Quẩy Nóng ",
+                    "name": "Quẩy Nóng",
                     "address": "Ngõ 68 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/z68IFup.jpg",
+                    "phone": "0989 790 064",
                     "time": "02:00 PM - 08:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -138,6 +156,7 @@
                     "name": "Khu Ăn Vặt Triều Khúc",
                     "address": "Chợ Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/TGj8wAx.jpg",
+                    "phone": "0989 790 064",
                     "time": "07:00 AM - 11:00 AM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -145,6 +164,7 @@
                     "name": "Lợi Nguyễn Quán",
                     "address": "22 Ngõ 66 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/Mxa4K1H.jpg",
+                    "phone": "0989 790 064",
                     "time": "10:00 AM - 11:00 PM",
                     "price": "20.000đ - 200.000đ"
                 },
@@ -152,6 +172,7 @@
                     "name": "Hàn Việt Fastfood",
                     "address": "44 Ngõ 42 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/xoUgHLU.jpg",
+                    "phone": "0987 520 002",
                     "time": "08:00 AM - 08:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -159,6 +180,7 @@
                     "name": "Trà Sữa Coco",
                     "address": "16 Triều Khúc , Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/xb4fqHC.jpg",
+                    "phone": "0977 037 108",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "4.000đ - 30.000đ"
                 },
@@ -166,6 +188,7 @@
                     "name": "Bún Đậu Mẹt & Bún Cá",
                     "address": "64 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/jZM1BHQ.jpg",
+                    "phone": "0977 037 108",
                     "time": "06:00 AM - 11:00 PM",
                     "price": "20.000đ - 25.000đ"
                 },
@@ -173,6 +196,7 @@
                     "name": "Phở Bắc",
                     "address": "28A Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/y7nvnAQ.jpg",
+                    "phone": "0977 037 108",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "30.000đ - 40.000đ"
                 },
@@ -180,6 +204,7 @@
                     "name": "Bánh Ngọt Thu Hương",
                     "address": "128 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/fqPL140.jpg",
+                    "phone": "0977 037 108",
                     "time": "07:30 AM - 09:00 PM",
                     "price": "10.000đ - 300.000đ"
                 },
@@ -187,6 +212,7 @@
                     "name": "Bánh Sắn Dừa",
                     "address": "Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/HGV9R5M.jpg",
+                    "phone": "0965 033 715",
                     "time": "09:00 AM - 07:00 PM",
                     "price": "30.000đ - 60.000đ"
                 },
@@ -194,13 +220,15 @@
                     "name": "Thịnh Khang - Phở Bò & Bún Chả",
                     "address": "42 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/JzJwffz.jpg",
+                    "phone": "0965 033 715",
                     "time": "08:00 AM - 09:30 PM",
                     "price": "25.000đ - 50.000đ"
                 },
                 {
-                    "name": "Sữa Chua Dr.Dẻo ",
+                    "name": "Sữa Chua Dr.Dẻo",
                     "address": "62 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/8f58Uq3.jpg",
+                    "phone": "0965 033 715",
                     "time": "07:30 AM - 11:00 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -208,6 +236,7 @@
                     "name": "Ami Detox",
                     "address": "7 Ngõ 58 Triều Khúc, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/tBsd5g3.jpg",
+                    "phone": "0979 652 720",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 40.000đ"
                 }
@@ -220,6 +249,7 @@
                     "name": "The FAEN",
                     "address": "Ngõ A7 Đại Học Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/JK8I1O9.jpg",
+                    "phone": "0947 792 866",
                     "time": "08:30 AM - 09:30 PM",
                     "price": "15.000đ - 40.000đ"
                 },
@@ -227,6 +257,7 @@
                     "name": "Freddo Take Away Coffee",
                     "address": "1B Ngõ A8 - TT Đại Học Hà Nội (Ngõ 165 Lương Thế Vinh), Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/vYPp0a3.jpg",
+                    "phone": "0904 123 658",
                     "time": "08:00 AM - 08:30 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -234,6 +265,7 @@
                     "name": "The Coffee Shop",
                     "address": "2 Cổng Trường Đại Học Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/F8dby9X.jpg",
+                    "phone": "024 35 545 129",
                     "time": "06:45 AM - 10:30 PM",
                     "price": "18.000đ - 37.000đ"
                 },
@@ -241,6 +273,7 @@
                     "name": "Nếp Cẩm 3A",
                     "address": "3A Ngõ A4, KTT Đại Học Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/kmL3kwC.jpg",
+                    "phone": "0936 170 360",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "5.000đ - 15.000đ"
                 },
@@ -248,6 +281,7 @@
                     "name": "Xiên Que Đại Học Hà Nội",
                     "address": "Đối Diện 292 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/58jzqBC.jpg",
+                    "phone": "0936 170 360",
                     "time": "05:00 PM - 07:00 PM",
                     "price": "2.000đ - 10.000đ"
                 },
@@ -255,6 +289,7 @@
                     "name": "Bánh Bột Rán & Bánh Khoai",
                     "address": "Ngã Tư Ngõ A4 ĐH Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/oR3tqus.jpg",
+                    "phone": "0936 170 360",
                     "time": "03:00 PM - 09:00 PM",
                     "price": "5.000đ - 15.000đ"
                 },
@@ -262,6 +297,7 @@
                     "name": "Quán Cơm Cô Hiền",
                     "address": "10 Ngõ A4, Đại Học Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/Tpbn387.jpg",
+                    "phone": "0936 170 360",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -269,6 +305,7 @@
                     "name": "Freedo Coffee",
                     "address": "Khu TT Đại Học Hà Nội, Lương Thế Vinh, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/k3sxKf4.jpg",
+                    "phone": "0936 170 360",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -276,6 +313,7 @@
                     "name": "Bún Đậu Vỉa Hè",
                     "address": "Cổng Đại Học Hà Nội, Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/5W9q9ZE.jpg",
+                    "phone": "0936 170 360",
                     "time": "05:00 PM - 08:30 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -283,6 +321,7 @@
                     "name": "Doner Kebab Hanu",
                     "address": "26 Ngõ 1 Đại Học Hà Nội, Km9 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/5y4SVpt.jpg",
+                    "phone": "0936 170 360",
                     "time": "08:30 AM - 05:00 PM",
                     "price": "10.000đ - 20.000đ"
                 },
@@ -290,6 +329,7 @@
                     "name": "Chè Ngọc Tiến",
                     "address": "Ngõ A4 ĐH Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/p58vxjo.jpg",
+                    "phone": "0936 170 360",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -297,6 +337,7 @@
                     "name": "Tiệm Bánh Mì Ròn",
                     "address": "12 Ngõ Đại Học Hà Nội, Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/DN0skom.jpg",
+                    "phone": "0936 170 360",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -304,6 +345,7 @@
                     "name": "Quán Nón - Cơm Niêu & Miến Trộn",
                     "address": "28 Ngõ 1 Đại Học Hà Nội, Thanh Xuân, Hà Nội, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/dgNfBrX.jpg",
+                    "phone": "0936 170 360",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -311,6 +353,7 @@
                     "name": "Gimbab & Kim Chi Hàn Quốc",
                     "address": "Ngõ 1 Đại Học Hà Nội, Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/U2wnQtY.jpg",
+                    "phone": "0936 170 360",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 120.000đ"
                 }    
@@ -323,6 +366,7 @@
                     "name": "Remy Cafe",
                     "address": "Đối Diện Cổng Đại Học Sư Phạm Nhạc Họa Trung Ương, Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/SM8r05f.jpg",
+                    "phone": "0946 710 558",
                     "time": "07:00 AM - 11:00 PM",
                     "price": "12.000đ - 30.000đ"
                 },
@@ -330,6 +374,7 @@
                     "name": "Cafe Không Tên",
                     "address": "Cổng Trường ĐH Sư Phạm Nghệ Thuật Trung Ương, Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/deAkmbR.jpg",
+                    "phone": "0946 710 558",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "15.000đ - 50.000đ"
                 }       
@@ -342,6 +387,7 @@
                     "name": "Tteokbokki Vỉa Hè",
                     "address": "16A Ngõ 2 Đại An, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/FzBaVsi.jpg",
+                    "phone": "01269 592 222",
                     "time": "04:00 PM - 09:30 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -349,6 +395,7 @@
                     "name": "Cafe Xí Nghiệp",
                     "address": "A60 TT11, KĐT Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/4TOKRmd.jpg",
+                    "phone": "0936 344 793",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "20.000đ - 55.000đ"
                 },
@@ -356,6 +403,7 @@
                     "name": "HaNa - Mì Cay",
                     "address": "52 BT7 Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/CojApkb.jpg",
+                    "phone": "0982 406 968",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -363,6 +411,7 @@
                     "name": "Paradise Cafe",
                     "address": "1 Hồ Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/J43Os8V.jpg",
+                    "phone": "024 33 546 636",
                     "time": "07:00 AM - 11:00 PM",
                     "price": "20.000đ - 55.000đ"
                 },
@@ -370,6 +419,7 @@
                     "name": "Vựa Hải Sản",
                     "address": "A36 TT17 Nguyễn Khuyến, KĐT Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/HPTpLIQ.jpg",
+                    "phone": "01293 616 666",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "100.000đ - 2.000.000đ"
                 },
@@ -377,6 +427,7 @@
                     "name": "Thịt Xiên Nướng",
                     "address": "Đối Diện A14TT8 KĐTM Văn Quán, Đường 19-5, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/HbGNt0j.jpg",
+                    "phone": "01293 616 666",
                     "time": "10:00 AM - 09:00 PM",
                     "price": "5.000đ - 10.000đ"
                 },
@@ -384,6 +435,7 @@
                     "name": "Lẩu 81",
                     "address": "81 Tổ 2 Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/TI52TJH.jpg",
+                    "phone": "0985 232 398",
                     "time": "04:00 PM - 11:00 PM",
                     "price": "100.000đ - 200.000đ"
                 },
@@ -391,6 +443,7 @@
                     "name": "Chim Quay Văn Quán",
                     "address": "Sân Bóng Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/lq9EBdR.jpg",
+                    "phone": "01692 692 706",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "20.000đ - 35.000đ"
                 },
@@ -398,6 +451,7 @@
                     "name": "Kem Tràng Tiền",
                     "address": "A2 TT 10 KĐT Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/PwYiw4m.jpg",
+                    "phone": "01692 692 706",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -405,6 +459,7 @@
                     "name": "Tim Coffee",
                     "address": "2 BT7 Hồ Văn Quán, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/uMUfks6.jpg",
+                    "phone": "01669 062 066",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "20.000đ - 55.000đ"
                 }     
@@ -417,6 +472,7 @@
                     "name": "Bánh Mì Thịt Bò Xào",
                     "address": "20 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/Fr5drEL.jpg",
+                    "phone": "01669 062 066",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -424,6 +480,7 @@
                     "name": "Xưởng 3+ Cafe",
                     "address": "56 Đại An, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/W6SN3Y3.jpg",
+                    "phone": "0988 888 692",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "10.000đ - 35.000đ"
                 },
@@ -431,6 +488,7 @@
                     "name": "GoGi House",
                     "address": "146 Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/TjdYMVv.jpg",
+                    "phone": "024 73 060 688",
                     "time": "11:00 AM - 10:00 PM",
                     "price": "165.000đ - 300.000đ"
                 },
@@ -438,6 +496,7 @@
                     "name": "Chè Kim Cương",
                     "address": "42A Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/TNuSlkK.jpg",
+                    "phone": "0939 267 304",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -445,6 +504,7 @@
                     "name": "Bánh Mì Chảo",
                     "address": "Ngõ 3 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/kJWZ7nz.jpg",
+                    "phone": "01657 894 500",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 45.000đ"
                 },
@@ -452,20 +512,15 @@
                     "name": "Phủi Cafe",
                     "address": "22 Ngõ 2 Đại An, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/CrwTYeO.jpg",
+                    "phone": "01657 894 500",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "20.000đ - 80.000đ"
-                },
-                {
-                    "name": "Bánh Mì Cô Thu",
-                    "address": "10 Ngõ 2 Ao Sen, Quận Hà Đông, Hà Nội",
-                    "image": "http://i.imgur.com/J3vb8vj.jpg",
-                    "time": "07:00 AM - 09:00 PM",
-                    "price": "6.000đ - 30.000đ"
                 },
                 {
                     "name": "Lasoba - Bánh Mì Nướng Lạng Sơn",
                     "address": "8 Ngõ 1 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/VL923xI.jpg",
+                    "phone": "098 112 55 52",
                     "time": "07:30 AM - 09:30 PM",
                     "price": "4.000đ - 16.000đ"
                 },
@@ -473,13 +528,31 @@
                     "name": "Trà Sữa San San - Ao Sen",
                     "address": "3 Ngõ 5 Ao Sen, Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/gCuBWFG.jpg",
+                    "phone": "098 792 87 66",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "15.000đ - 25.000đ"
+                },
+                {
+                    "name": "Siêu Chảo FA - Bánh Mì Chảo - Ao Sen",
+                    "address": "11B Ngõ 3 Ao Sen, Quận Hà Đông, Hà Nội",
+                    "image": "http://i.imgur.com/U9TIXyg.jpg",
+                    "phone": "0165 582 1687",
+                    "time": "09:00 AM - 10:30 PM",
+                    "price": "15.000đ - 30.000đ"
+                },
+                {
+                    "name": "Niêu Sumo - Food & Drink",
+                    "address": "8 Ngõ 3, Ao Sen, Quận Hà Đông, Hà Nội",
+                    "image": "http://i.imgur.com/MJBLmh6.jpg",
+                    "phone": "0166 515 9538",
+                    "time": "08:00 AM - 10:00 PM",
+                    "price": "15.000đ - 50.000đ"
                 },
                 {
                     "name": "Tiktak - Đồ Ăn Ngon Hàn Quốc",
                     "address": "12B Ngõ 2 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/vHXs8jq.jpg",
+                    "phone": "0964 131 918",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "15.000đ - 55.000đ"
                 }     
@@ -492,6 +565,7 @@
                     "name": "Đặc Sản Vịt Cỏ Vân Đình",
                     "address": "103 Chiến Thắng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/GC51SD5.jpg",
+                    "phone": "0904 517 722",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 150.000đ"
                 },
@@ -499,6 +573,7 @@
                     "name": "Bún Cá",
                     "address": "173 Chiến Thắng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/KQvnfI8.jpg",
+                    "phone": "0904 517 722",
                     "time": "08:00 AM - 08:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -506,13 +581,15 @@
                     "name": "Cháo Lòng & Bún Lòng",
                     "address": "84 Chiến Thắng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/1Ffm8Jl.jpg",
+                    "phone": "0904 517 722",
                     "time": "06:30 AM - 12:30 PM",
                     "price": "20.000đ - 30.000đ"
                 },
                 {
-                    "name": "Thành Long Quán - Vịt Cỏ Vân Đình ",
+                    "name": "Thành Long Quán - Vịt Cỏ Vân Đình",
                     "address": "68 Chiến Thắng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/PMcs6ZG.jpg",
+                    "phone": "0904 517 722",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "100.000đ - 500.000đ"
                 },
@@ -520,6 +597,7 @@
                     "name": "Vịt Chiến Thắng- Vịt Cỏ Vân Đình",
                     "address": "97 Mỗ Lao, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/MBlJ0QF.jpg",
+                    "phone": "0904 517 722",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -527,6 +605,7 @@
                     "name": "Cafe Đặng",
                     "address": "70 Chiến Thắng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/kOrFFco.jpg",
+                    "phone": "01213 194 730",
                     "time": "07:30 AM - 09:30 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -534,6 +613,7 @@
                     "name": "Hải Hà Kotobuki Bakery",
                     "address": "80 Chiến Thắng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/eQ7epZw.jpg",
+                    "phone": " 024 33 545 632",
                     "time": "08:30 AM - 09:30 PM",
                     "price": "10.000đ - 110.000đ"
                 },
@@ -541,6 +621,7 @@
                     "name": "Tiktak - Đồ Ăn Ngon Hàn Quốc",
                     "address": "12B Ngõ 2 Ao Sen, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/vHXs8jq.jpg",
+                    "phone": "0964 131 918",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "15.000đ - 55.000đ"
                 }       
@@ -553,6 +634,7 @@
                     "name": "Pepperonis Restaurant",
                     "address": "14 Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/3JLH3sf.jpg",
+                    "phone": "024 33 113 969",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "30.000đ - 220.000đ"
                 },
@@ -560,6 +642,7 @@
                     "name": "Ding Tea",
                     "address": "12 Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/FagcHiP.jpg",
+                    "phone": "024 66 881 212",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "20.000đ - 70.000đ"
                 },
@@ -567,6 +650,7 @@
                     "name": "Bee Tea",
                     "address": "69 Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/kuxXdZ2.jpg",
+                    "phone": "024 66 844 044",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -574,6 +658,7 @@
                     "name": "Halloween Ice Cream",
                     "address": "25 Trần Phú, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/t38tHrN.jpg",
+                    "phone": "0988 015 600",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "5.000đ - 50.000đ"
                 },
@@ -581,6 +666,7 @@
                     "name": "Xưởng 3+ Cafe",
                     "address": "56 Đại An, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/W6SN3Y3.jpg",
+                    "phone": "0988 888 692",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "10.000đ - 35.000đ"
                 },
@@ -588,9 +674,10 @@
                     "name": "Phủi Cafe",
                     "address": "22 Ngõ 2 Đại An, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/CrwTYeO.jpg",
+                    "phone": "01657 894 500",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "20.000đ - 80.000đ"
-                }    
+                }  
             ]
         },
         {
@@ -600,6 +687,7 @@
                     "name": "Khu Ăn Vặt",
                     "address": "Chợ Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/HAMDXb2.jpg",
+                    "phone": "01657 894 500",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "5.000đ - 50.000đ"
                 },
@@ -607,6 +695,7 @@
                     "name": "Lẩu Nướng Mập Quán",
                     "address": "61 Ngõ 67 Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/Y96fAPY.jpg",
+                    "phone": "01686 928 686",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "100.000đ - 200.000đ"
                 },
@@ -614,6 +703,7 @@
                     "name": "Nem Chua & Thạch Găng",
                     "address": "Cổng Chợ Phùng Khoang, Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/75576oX.jpg",
+                    "phone": "01686 928 686",
                     "time": "06:00 PM - 10:00 PM",
                     "price": "5.000đ - 24.000đ"
                 },
@@ -621,6 +711,7 @@
                     "name": "Chè Thái Hà",
                     "address": "41 Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/UG6HT8P.jpg",
+                    "phone": "01686 928 686",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "12.000đ - 25.000đ"
                 },
@@ -628,6 +719,7 @@
                     "name": "Bánh Xèo & Nem Lụi",
                     "address": "86 Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/53t6VtS.jpg",
+                    "phone": "01686 928 686",
                     "time": "11:00 AM - 11:30 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -635,6 +727,7 @@
                     "name": "Mĩm Tỷ Quán - Ốc Luộc & Đồ Ăn Vặt",
                     "address": "Chợ Phùng Khoang, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/gx5DehJ.jpg",
+                    "phone": "01686 928 686",
                     "time": "06:00 AM - 11:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -642,6 +735,7 @@
                     "name": "Cồ Khang - Cơm Rang & Phở Bò",
                     "address": "58 Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/CfMYsmG.jpg",
+                    "phone": "01686 928 686",
                     "time": "07:30 AM - 10:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -649,6 +743,7 @@
                     "name": "Ngọc Hân - Bánh Mì Chảo",
                     "address": "76 Phùng Khoang, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/JUmlF3s.jpg",
+                    "phone": "01665 818 345",
                     "time": "10:00 AM - 09:00 PM",
                     "price": "15.000đ - 35.000đ"
                 },
@@ -656,6 +751,7 @@
                     "name": "Quán Ốc",
                     "address": "30 Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/y95J13L.jpg",
+                    "phone": "01665 818 345",
                     "time": "06:00 PM - 11:00 PM",
                     "price": "15.000đ - 45.000đ"
                 },
@@ -663,6 +759,7 @@
                     "name": "Lâm Vũ - Bánh Mì Que",
                     "address": "Phùng Khoang, Quận Nam Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/jyJqXMG.jpg",
+                    "phone": "01665 818 345",
                     "time": "06:00 PM - 11:00 PM",
                     "price": "8.000đ - 25.000đ"
                 }   
@@ -675,6 +772,7 @@
                     "name": "Paris Gâteaux",
                     "address": "2A Trần Đại Nghĩa, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/x9QrXXl.jpg",
+                    "phone": "024 36 285 298",
                     "time": "07:30 AM - 09:30 PM",
                     "price": "50.000đ - 275.000đ"
                 },
@@ -682,6 +780,7 @@
                     "name": "Cháo Lòng Bách Khoa",
                     "address": "Đối Diện Cồng KTX Bách Khoa, Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/X1kTE7L.jpg",
+                    "phone": "024 36 285 298",
                     "time": "03:30 PM - 09:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -689,6 +788,7 @@
                     "name": "Bò Nầm Nướng, Lẩu Riêu Cua Sườn Sụn",
                     "address": "E7 Bách Khoa (Đối Diện Cây Xăng Tạ Quang Bửu), Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/v7rccn4.jpg",
+                    "phone": "024 36 285 298",
                     "time": "06:30 PM - 12:00 AM",
                     "price": "100.000đ - 150.000đ"
                 },
@@ -696,6 +796,7 @@
                     "name": "Bánh Mì Chảo Hiệu Lực",
                     "address": "88 Trần Đại Nghĩa, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/6uFtdzW.jpg",
+                    "phone": "0972 701 989",
                     "time": "06:00 AM - 10:00 PM",
                     "price": "25.000đ - 30.000đ"
                 },
@@ -703,6 +804,7 @@
                     "name": "Bánh Tráng Trộn",
                     "address": "Cổng KTX B10 ĐH Bách Khoa Hà Nội, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/g0C3UuJ.jpg",
+                    "phone": "01657 959 848",
                     "time": "04:00 PM - 09:30 PM",
                     "price": "15.000đ - 20.000đ"
                 },
@@ -710,6 +812,7 @@
                     "name": "Hòa Quán",
                     "address": "24 Ngõ 27 Đại Cồ Việt, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/9HVlv93.jpg",
+                    "phone": "0962 783 456",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "4.000đ - 300.000đ"
                 },
@@ -717,6 +820,7 @@
                     "name": "Phong Lan - Ốc, Chè, Nem",
                     "address": "107A Y9 Đại Học Kinh Tế Quốc Dân, Trần Đại Nghĩa, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/nZc6VHF.jpg",
+                    "phone": "0915 118 838",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "8.000đ - 60.000đ"
                 },
@@ -724,6 +828,7 @@
                     "name": "Bánh Mì Thịt Xiên",
                     "address": "Trần Đại Nghĩa, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/6gVabSu.jpg",
+                    "phone": "0915 118 838",
                     "time": "03:00 PM - 07:00 PM",
                     "price": "6.000đ - 20.000đ"
                 },
@@ -731,6 +836,7 @@
                     "name": "Bánh Bột Lọc",
                     "address": "Chợ Bách Khoa, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/sy59X5m.jpg",
+                    "phone": "0915 118 838",
                     "time": "02:00 PM - 06:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -738,6 +844,7 @@
                     "name": "Cháo Sườn Bách Khoa",
                     "address": "Ngõ 17 Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/lXLZjZn.jpg",
+                    "phone": "0915 118 838",
                     "time": "03:00 PM - 08:00 PM",
                     "price": "10.000đ - 15.000đ"
                 },
@@ -745,6 +852,7 @@
                     "name": "Tào Phớ",
                     "address": "Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/c9hZk69.jpg",
+                    "phone": "0915 118 838",
                     "time": "04:00 PM - 10:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -752,6 +860,7 @@
                     "name": "Chè Tự Chọn",
                     "address": "Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/Q54zTlu.jpg",
+                    "phone": "0915 118 838",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "10.000đ - 20.000đ"
                 }      
@@ -764,6 +873,7 @@
                     "name": "Xôi & Bánh Mì",
                     "address": "2 Cầu Giấy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/eP08IXv.jpg",
+                    "phone": "0915 118 838",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -771,6 +881,7 @@
                     "name": "Ngan Gà Luộc",
                     "address": "33B Cầu Giấy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/LnjJnzv.jpg",
+                    "phone": "0915 118 838",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "20.000đ - 44.000đ"
                 },
@@ -778,6 +889,7 @@
                     "name": "Trà Sữa 35",
                     "address": "Ngã Tư Cầu Giấy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/FGfZt81.jpg",
+                    "phone": "0915 118 838",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -785,6 +897,7 @@
                     "name": "Hoàng Quân Quán - Lẩu & Các Món Nhậu",
                     "address": "18 Cầu Giấy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/yAL0umY.jpg",
+                    "phone": "0947 696 699",
                     "time": "05:00 PM - 11:00 PM",
                     "price": "30.000đ - 300.000đ"
                 },
@@ -792,6 +905,7 @@
                     "name": "Ronaldo Cafe",
                     "address": "27 Cầu Giấy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/DAilN5c.jpg",
+                    "phone": "024 37 663 451",
                     "time": "07:00 AM - 11:30 PM",
                     "price": "15.000đ - 35.000đ"
                 }     
@@ -804,6 +918,7 @@
                     "name": "An Biên - Món Ngon Hải Phòng",
                     "address": "108 D5 Trần Thái Tông, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/JkKdOpF.jpg",
+                    "phone": "024 39 740 099",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 500.000đ"
                 },
@@ -811,6 +926,7 @@
                     "name": "Phong Viên Quán - Món Ăn Miền Trung & Cơm Văn Phòng",
                     "address": "3 Ngõ 99 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/pEznhvq.jpg",
+                    "phone": "0988 481 859",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "8.000đ - 25.000đ"
                 },
@@ -818,6 +934,7 @@
                     "name": "Bún Huế",
                     "address": "9 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ZetumiN.jpg",
+                    "phone": "0988 481 859",
                     "time": "06:30 AM - 09:30 PM",
                     "price": "20.000đ - 33.000đ"
                 },
@@ -825,6 +942,7 @@
                     "name": "Nam Vang Quán - Hủ Tiếu Sài Gòn",
                     "address": "5 Nguyễn Văn Huyên, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Qir70md.jpg",
+                    "phone": "0937 708 336",
                     "time": "06:00 AM - 10:00 PM",
                     "price": "50.000đ - 60.000đ"
                 },
@@ -832,6 +950,7 @@
                     "name": "Lẩu vịt Trần Bình",
                     "address": "172 Trần Bình, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/sIhHU0e.jpg",
+                    "phone": "0942 019 238",
                     "time": "10:00 AM - 11:00 PM",
                     "price": "150.000đ - 275.000đ"
                 },
@@ -839,6 +958,7 @@
                     "name": "Quán Mẹt - Bún Đậu",
                     "address": "1 Trần Quý Kiên, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/N3VOX3j.jpg",
+                    "phone": "024 37 739 596",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 55.000đ"
                 },
@@ -846,6 +966,7 @@
                     "name": "Chị Mến - Bánh Mì, Bún Chả, Sữa Đậu",
                     "address": "26 Ngõ 53 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/F4fp3eh.jpg",
+                    "phone": "024 37 739 596",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -853,6 +974,7 @@
                     "name": "Nướng 26",
                     "address": "26 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/HG6Diw2.jpg",
+                    "phone": "0906 199 889",
                     "time": "06:00 PM - 10:30 PM",
                     "price": "10.000đ - 219.000đ"
                 },
@@ -860,6 +982,7 @@
                     "name": "Canteen Học Viện Báo Chí Và Tuyên Truyền",
                     "address": "Tầng Hầm Toà Nhà A1, Học Viện Báo Chí Và Tuyên Truyền, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/eRZ7kv3.jpg",
+                    "phone": "0906 199 889",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "20.000đ - 25.000đ"
                 },
@@ -867,6 +990,7 @@
                     "name": "Gà Tần & Bánh Cuốn Nóng",
                     "address": "32 Phan Văn Trường, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/eWTW7Za.jpg",
+                    "phone": "0906 199 889",
                     "time": "06:30 AM - 10:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -874,6 +998,7 @@
                     "name": "Ten Ten - Food & Drink",
                     "address": "Tòa Nhà Pan Horizon, 157 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/nUgdjfo.jpg",
+                    "phone": "024 35 112 323",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 300.000đ"
                 },
@@ -881,6 +1006,7 @@
                     "name": "Thủy Bụng - Nướng Bình Dân",
                     "address": "46 Ngõ 165 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ksaO84v.jpg",
+                    "phone": "024 35 112 323",
                     "time": "05:00 PM - 10:30 PM",
                     "price": "50.000đ - 100.000đ"
                 }    
@@ -893,6 +1019,7 @@
                     "name": "Bún, Miến, Bánh Đa Trộn",
                     "address": "17 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/Mun2Ybq.jpg",
+                    "phone": "0934 131 176",
                     "time": "10:00 AM - 04:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -900,6 +1027,7 @@
                     "name": "Nhanh Quán - Ăn Vặt Sinh Viên",
                     "address": "2 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/oFVkGQe.jpg",
+                    "phone": "0934 131 176",
                     "time": "08:00 AM - 06:00 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -907,6 +1035,7 @@
                     "name": "Cô Lan - Bún Ngon",
                     "address": "332 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/kTJtMwf.jpg",
+                    "phone": "0934 131 176",
                     "time": "09:00 AM - 06:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -914,6 +1043,7 @@
                     "name": "The House Tea & Coffee",
                     "address": "12 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/ZojpTHM.jpg",
+                    "phone": "0914 330 001",
                     "time": "09:00 AM - 07:00 PM",
                     "price": "15.000đ - 27.000đ"
                 },
@@ -921,6 +1051,7 @@
                     "name": "Tào Phớ & Sữa Đậu",
                     "address": "5 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/al5Ca9W.jpg",
+                    "phone": "0914 330 001",
                     "time": "01:00 PM - 05:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -928,6 +1059,7 @@
                     "name": "Quán Chè 10k",
                     "address": "Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/S6OmrbD.jpg",
+                    "phone": "0914 330 001",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -935,6 +1067,7 @@
                     "name": "Lộc Minh - Phở Bò, Gà, Cơm Rang, Mì Xào",
                     "address": "344 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/FDYCA9x.jpg",
+                    "phone": "0914 330 001",
                     "time": "9:00 AM - 10:00 PM",
                     "price": "22.000đ - 30.000đ"
                 },
@@ -942,6 +1075,7 @@
                     "name": "Xúc Xích & Nem Chua Rán",
                     "address": "334 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/sTyU0HA.jpg",
+                    "phone": "0914 330 001",
                     "time": "04:30 PM - 08:00 PM",
                     "price": "3.000đ - 10.000đ"
                 },
@@ -949,6 +1083,7 @@
                     "name": "Cóc Ổi Xoài Dầm",
                     "address": "334 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/w6XJ3sy.jpg",
+                    "phone": "0914 330 001",
                     "time": "08:00 AM - 06:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -956,6 +1091,7 @@
                     "name": "Tào Phớ",
                     "address": "Ngõ 328 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/b0yvxMn.jpg",
+                    "phone": "0914 330 001",
                     "time": "09:00 AM - 05:00 PM",
                     "price": "8.000đ - 10.000đ"
                 },
@@ -963,6 +1099,7 @@
                     "name": "Bún Đậu Chả Cốm",
                     "address": "Ngõ 330 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/v6V28Dk.jpg",
+                    "phone": "0975 335 555",
                     "time": "06:30 AM - 03:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -970,6 +1107,7 @@
                     "name": "Bún Cá & Bún Ốc",
                     "address": "Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/vAmsUKA.jpg",
+                    "phone": "0975 335 555",
                     "time": "06:30 AM - 02:00 PM",
                     "price": "15.000đ - 30.000đ"
                 }     
@@ -982,6 +1120,7 @@
                     "name": "Bún, Miến, Bánh Đa Trộn",
                     "address": "17 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/Mun2Ybq.jpg",
+                    "phone": "0934 131 176",
                     "time": "10:00 AM - 04:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -989,6 +1128,7 @@
                     "name": "Nhanh Quán - Ăn Vặt Sinh Viên",
                     "address": "2 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/oFVkGQe.jpg",
+                    "phone": "0934 131 176",
                     "time": "08:00 AM - 06:00 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -996,6 +1136,7 @@
                     "name": "Cô Lan - Bún Ngon",
                     "address": "332 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/kTJtMwf.jpg",
+                    "phone": "0934 131 176",
                     "time": "09:00 AM - 06:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1003,6 +1144,7 @@
                     "name": "The House Tea & Coffee",
                     "address": "12 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/ZojpTHM.jpg",
+                    "phone": "0914 330 001",
                     "time": "09:00 AM - 07:00 PM",
                     "price": "15.000đ - 27.000đ"
                 },
@@ -1010,6 +1152,7 @@
                     "name": "Tào Phớ & Sữa Đậu",
                     "address": "5 Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/al5Ca9W.jpg",
+                    "phone": "0914 330 001",
                     "time": "01:00 PM - 05:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -1017,6 +1160,7 @@
                     "name": "Quán Chè 10k",
                     "address": "Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/S6OmrbD.jpg",
+                    "phone": "0914 330 001",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -1024,6 +1168,7 @@
                     "name": "Lộc Minh - Phở Bò, Gà, Cơm Rang, Mì Xào",
                     "address": "344 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/FDYCA9x.jpg",
+                    "phone": "0914 330 001",
                     "time": "9:00 AM - 10:00 PM",
                     "price": "22.000đ - 30.000đ"
                 },
@@ -1031,6 +1176,7 @@
                     "name": "Xúc Xích & Nem Chua Rán",
                     "address": "334 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/sTyU0HA.jpg",
+                    "phone": "0914 330 001",
                     "time": "04:30 PM - 08:00 PM",
                     "price": "3.000đ - 10.000đ"
                 },
@@ -1038,6 +1184,7 @@
                     "name": "Cóc Ổi Xoài Dầm",
                     "address": "334 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/w6XJ3sy.jpg",
+                    "phone": "0914 330 001",
                     "time": "08:00 AM - 06:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -1045,6 +1192,7 @@
                     "name": "Tào Phớ",
                     "address": "Ngõ 328 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/b0yvxMn.jpg",
+                    "phone": "0914 330 001",
                     "time": "09:00 AM - 05:00 PM",
                     "price": "8.000đ - 10.000đ"
                 },
@@ -1052,6 +1200,7 @@
                     "name": "Bún Đậu Chả Cốm",
                     "address": "Ngõ 330 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/v6V28Dk.jpg",
+                    "phone": "0975 335 555",
                     "time": "06:30 AM - 03:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -1059,9 +1208,10 @@
                     "name": "Bún Cá & Bún Ốc",
                     "address": "Ngõ 336 Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/vAmsUKA.jpg",
+                    "phone": "0975 335 555",
                     "time": "06:30 AM - 02:00 PM",
                     "price": "15.000đ - 30.000đ"
-                }       
+                }  
             ]
         },
         {
@@ -1071,6 +1221,7 @@
                     "name": "Crepes K - Bánh Crepe",
                     "address": "2 Ngõ 91 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/J124ytr.jpg",
+                    "phone": "0904 087 786",
                     "time": "07:30 AM - 09:00 PM",
                     "price": "9.000đ - 24.000đ"
                 },
@@ -1078,6 +1229,7 @@
                     "name": "Gia Đình Trái Cây",
                     "address": "2 Ngõ 67 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/XpoMVGh.jpg",
+                    "phone": "0912 852 125",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "10.000đ - 20.000đ"
                 },
@@ -1085,6 +1237,7 @@
                     "name": "Bánh Mì Ngon",
                     "address": "2 Ngõ 185 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/aBWwUEd.jpg",
+                    "phone": "01665 122 468",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "30.000đ - 80.000đ"
                 },
@@ -1092,6 +1245,7 @@
                     "name": "Bánh Sinh Nhật & Bánh Mì",
                     "address": "59 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/k3auPaE.jpg",
+                    "phone": "01665 122 468",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "3.000đ - 400.000đ"
                 },
@@ -1099,6 +1253,7 @@
                     "name": "Ding Tea",
                     "address": "72 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/XVHzAlh.jpg",
+                    "phone": "024 66 615 516",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -1106,6 +1261,7 @@
                     "name": "Bánh Tráng Trộn Tina Trần",
                     "address": "3 A15 Ngõ 33 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/rOkDfut.jpg",
+                    "phone": "01222 050 988",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "10.000đ - 25.000đ"
                 },
@@ -1113,6 +1269,7 @@
                     "name": "Thịt Xiên Nướng",
                     "address": "69 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/Vux0MvY.jpg",
+                    "phone": "0903 430 034",
                     "time": "03:00 PM - 08:00 PM",
                     "price": "10.000đ - 30.000đ"
                 }     
@@ -1125,6 +1282,7 @@
                     "name": "Crepes K - Bánh Crepe",
                     "address": "2 Ngõ 91 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/J124ytr.jpg",
+                    "phone": "0904 087 786",
                     "time": "07:30 AM - 09:00 PM",
                     "price": "9.000đ - 24.000đ"
                 },
@@ -1132,6 +1290,7 @@
                     "name": "Gia Đình Trái Cây",
                     "address": "2 Ngõ 67 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/XpoMVGh.jpg",
+                    "phone": "0912 852 125",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "10.000đ - 20.000đ"
                 },
@@ -1139,6 +1298,7 @@
                     "name": "Bánh Mì Ngon",
                     "address": "2 Ngõ 185 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/aBWwUEd.jpg",
+                    "phone": "01665 122 468",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "30.000đ - 80.000đ"
                 },
@@ -1146,6 +1306,7 @@
                     "name": "Bánh Sinh Nhật & Bánh Mì",
                     "address": "59 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/k3auPaE.jpg",
+                    "phone": "01665 122 468",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "3.000đ - 400.000đ"
                 },
@@ -1153,6 +1314,7 @@
                     "name": "Ding Tea",
                     "address": "72 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/XVHzAlh.jpg",
+                    "phone": "024 66 615 516",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -1160,6 +1322,7 @@
                     "name": "Bánh Tráng Trộn Tina Trần",
                     "address": "3 A15 Ngõ 33 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/rOkDfut.jpg",
+                    "phone": "01222 050 988",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "10.000đ - 25.000đ"
                 },
@@ -1167,9 +1330,10 @@
                     "name": "Thịt Xiên Nướng",
                     "address": "69 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/Vux0MvY.jpg",
+                    "phone": "0903 430 034",
                     "time": "03:00 PM - 08:00 PM",
                     "price": "10.000đ - 30.000đ"
-                }      
+                }  
             ]
         },
         {
@@ -1179,6 +1343,7 @@
                     "name": "Tous Les Jours - IPH Xuân Thủy",
                     "address": "Tầng 1, IPH, 239 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/2vXvRFT.jpg",
+                    "phone": "0903 430 034",
                     "time": "08:30 AM - 09:00 PM",
                     "price": "15.000đ - 550.000đ"
                 },
@@ -1186,6 +1351,7 @@
                     "name": "Phố Ngon 37 - Indochina Plaza",
                     "address": "Tầng 5, IPH, 239 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/2eaARPX.jpg",
+                    "phone": "024 35 186 186",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "45.000đ - 66.000đ"
                 },
@@ -1193,6 +1359,7 @@
                     "name": "Pizza Hut - IPH Xuân Thủy",
                     "address": "Tầng 1, IPH, 239 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/EenDB4q.jpg",
+                    "phone": "024 35 186 186",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "40.000đ - 165.000đ"
                 },
@@ -1200,6 +1367,7 @@
                     "name": "Burger King - IPH Xuân Thủy",
                     "address": "Tầng 1, IPH, 239 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/cv3fqwm.jpg",
+                    "phone": "1900 6960",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "80.000đ - 110.000đ"
                 },
@@ -1207,6 +1375,7 @@
                     "name": "Starbucks Coffee - IPH Xuân Thủy",
                     "address": "Tầng 1, IPH, 241 Xuân Thuỷ, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/AoUOI6K.jpg",
+                    "phone": "024 37 954 278",
                     "time": "06:30 AM - 10:00 PM",
                     "price": "50.000đ - 100.000đ"
                 },
@@ -1214,6 +1383,7 @@
                     "name": "Daruma - Quán Ăn Nhật Bản - IPH Xuân Thủy",
                     "address": "Tầng 1, IPH, 241 Xuân Thuỷ, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/uBADCog.jpg",
+                    "phone": "024 37 681 616",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 250.000đ"
                 },      
@@ -1221,6 +1391,7 @@
                     "name": "Papas' Chicken - Xuân Thủy",
                     "address": "9A Ngõ 233 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/unFChpx.jpg",
+                    "phone": "024 37 925 021",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "50.000đ - 150.000đ"
                 },
@@ -1228,6 +1399,7 @@
                     "name": "Quiches Ice Cream - IPH Xuân Thủy",
                     "address": "Tầng 1, IPH, 239 Xuân Thuỷ, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/El8AyeK.jpg",
+                    "phone": "024 37 925 021",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "30.000đ - 100.000đ"
                 },
@@ -1235,6 +1407,7 @@
                     "name": "Hungry Z - Xuân Thủy",
                     "address": "Đại Học Quốc Gia Hà Nội, 144 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/sfaIUZ5.jpg",
+                    "phone": "024 37 925 021",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -1242,6 +1415,7 @@
                     "name": "Huyền Linh - Kem & Trà Sữa - Xuân Thủy",
                     "address": "36 Ngõ 175 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/GAs5KTy.jpg",
+                    "phone": "0977 033 723",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1249,6 +1423,7 @@
                     "name": "Ăn Vặt Quán",
                     "address": "Ki Ốt 1/144 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/xmL1ws7.jpg",
+                    "phone": "0977 033 723",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "5.000đ - 50.000đ"
                 },
@@ -1256,6 +1431,7 @@
                     "name": "Bánh Mì & Bánh Chưng Rán",
                     "address": "Ngõ 175 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/lmxOa4I.jpg",
+                    "phone": "0977 033 723",
                     "time": "06:00 AM - 07:00 PM",
                     "price": "10.000đ - 20.000đ"
                 }
@@ -1268,6 +1444,7 @@
                     "name": "Trà Sữa Tocotoco",
                     "address": "60 Hồ Tùng Mậu, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/PZ6xGsv.jpg",
+                    "phone": "1900 636 936",
                     "time": " 09:00 - 21:00",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -1275,6 +1452,7 @@
                     "name": "Wanted Quán - Foods & Drink",
                     "address": "3A11 Ngõ 235 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/5gpAqdu.jpg",
+                    "phone": "0168 724 0280",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -1282,6 +1460,7 @@
                     "name": "Amory Ice Cream",
                     "address": "51 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Q9LnyAR.jpg",
+                    "phone": "0985 551 508",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "25.000đ - 60.000đ"
                 },
@@ -1289,6 +1468,7 @@
                     "name": "Kem New Zealand",
                     "address": "Tầng 3, IPH, 239 Xuân Thuỷ, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/kMmvccm.jpg",
+                    "phone": "0985 551 508",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 66.000đ"
                 },
@@ -1296,6 +1476,7 @@
                     "name": "Unibeans Coffee",
                     "address": "144 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/2sumfkk.jpg",
+                    "phone": "0985 551 508",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1303,6 +1484,7 @@
                     "name": "Italk Coffee",
                     "address": "15 Ngõ 12/41 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/i8oNiAD.jpg",
+                    "phone": "01656 998 228",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 45.000đ"
                 },
@@ -1310,6 +1492,7 @@
                     "name": "ONG Coffee",
                     "address": "9 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/56lebac.jpg",
+                    "phone": "0977 478 001",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "30.000đ - 100.000đ"
                 },
@@ -1317,6 +1500,7 @@
                     "name": "Trà Sữa Uy Roóng",
                     "address": "19 Doãn Kế Thiện, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Nc7iu8k.jpg",
+                    "phone": "01659 686 865",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "20.000đ - 44.000đ"
                 }    
@@ -1329,6 +1513,7 @@
                     "name": "Chè Trang - Chè Ba Miền",
                     "address": "Ngõ 221 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/PNgIkx5.jpg",
+                    "phone": "0979 869 476",
                     "time": "08:30 AM - 09:00 PM",
                     "price": "15.000đ - 20.000đ"
                 },
@@ -1336,6 +1521,7 @@
                     "name": "Ole - Bánh Truyền Thống Nhật Bản",
                     "address": "15 Trần Bình, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/VjC6Xnj.jpg",
+                    "phone": "01696 428 866",
                     "time": "08:30 AM - 10:30 PM",
                     "price": "15.000đ - 75.000đ"
                 },
@@ -1343,6 +1529,7 @@
                     "name": "Kimbap Hàn Quốc - Trần Quốc Hoàn",
                     "address": "18 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/MuyOxdZ.jpg",
+                    "phone": "024 37 939 186",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "30.000đ - 100.000đ"
                 },
@@ -1350,6 +1537,7 @@
                     "name": "Caramen Thập Cẩm - Cầu Giấy",
                     "address": "21 Ngõ 31/2 Dịch Vọng, Quận Cầu Giấy, Hà Nộii",
                     "image": "http://i.imgur.com/KBO7Chk.jpg",
+                    "phone": "0915 087 498",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "15.000đ - 22.000đ"
                 },
@@ -1357,6 +1545,7 @@
                     "name": "Phở An - Trần Bình",
                     "address": "9 Trần Bình, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ZMLI2B5.jpg",
+                    "phone": "024 32 002 839",
                     "time": "06:30 AM - 10:00 PM",
                     "price": "40.000đ - 60.000đ"
                 },
@@ -1364,6 +1553,7 @@
                     "name": "Pokemon Kay - Mì Cay 7 Cấp Độ",
                     "address": "29 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ZMLI2B5.jpg",
+                    "phone": "0946 148 338",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 80.000đ"
                 },
@@ -1371,6 +1561,7 @@
                     "name": "Bún Bò Huế",
                     "address": "65 Doãn Kế Thiện, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/SrFtblw.jpg",
+                    "phone": "024 38 371 271",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 33.000đ"
                 },
@@ -1378,6 +1569,7 @@
                     "name": "Quán Ngon Nhật Linh - Cơm Niêu Văn Phòng",
                     "address": "26 Ngõ 233 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/dBwnRfH.jpg",
+                    "phone": "0971 039 515",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "35.000đ - 50.000đ"
                 }      
@@ -1390,6 +1582,7 @@
                     "name": "Takushi - Món Ăn Nhật Bản",
                     "address": "16 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/v6AZ6zE.jpg",
+                    "phone": "024 66 865 432",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1397,6 +1590,7 @@
                     "name": "Bánh Mì 40",
                     "address": "40 Ngõ 165 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/pDL9BBU.jpg",
+                    "phone": "0974 291 678",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -1404,6 +1598,7 @@
                     "name": "Cháo Hải Sản",
                     "address": "Nhà C3 Khu X4 TT ĐH Thương Mại, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/0I99z7Z.jpg",
+                    "phone": "0904 056 078",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -1411,6 +1606,7 @@
                     "name": "Bún Bò Huế O Huyền",
                     "address": "79 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/rSaEZqp.jpg",
+                    "phone": "0904 056 078",
                     "time": "07:00 AM - 09:30 PM",
                     "price": "35.000đ - 40.000đ"
                 },
@@ -1418,6 +1614,7 @@
                     "name": "Bánh Mì Bít Tết Tuấn Minh",
                     "address": "85 Doãn Kế Thiện, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/mA6tau3.jpg",
+                    "phone": "024 38 374 337",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 33.000đ"
                 },
@@ -1425,6 +1622,7 @@
                     "name": "Hà Quảng - Bún Thập Cẩm",
                     "address": "107 B2 Tập Thể Sư Phạm, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Y8nrWbQ.jpg",
+                    "phone": "0975 246 943",
                     "time": "06:00 AM - 09:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -1432,6 +1630,7 @@
                     "name": "Căng Tin G3",
                     "address": "ĐH Quốc Gia Hà Nội, 144 Xuân Thủy, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/9qhVO3G.jpg",
+                    "phone": "0975 246 943",
                     "time": "07:00 AM - 05:30 PM",
                     "price": "20.000đ - 100.000đ"
                 },
@@ -1439,6 +1638,7 @@
                     "name": "Bún Ốc & Bún Bung",
                     "address": "A4 Ngõ 235 Trần Quốc Hoàn, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/kNODdCT.jpg",
+                    "phone": "0975 246 943",
                     "time": "09:00 AM - 02:30 PM",
                     "price": "25.000đ - 40.000đ"
                 }  
@@ -1451,6 +1651,7 @@
                     "name": "T Korean - Ẩm Thực Hàn Quốc",
                     "address": "9 Ngõ 95 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/QaZJt0P.jpg",
+                    "phone": "0967 685 000",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "30.000đ - 100.000đ"
                 },
@@ -1458,13 +1659,15 @@
                     "name": "Chè Phương - Chùa Bộc",
                     "address": "6 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/QaZJt0P.jpg",
+                    "phone": "0967 685 000",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "10.000đ - 50.000đ"
                 },
                 {
-                    "name": "Quán Đèn Lồng ",
+                    "name": "Quán Đèn Lồng",
                     "address": "112 Ngõ 95 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/qIVFHkY.jpg",
+                    "phone": "0966 668 222",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "30.000đ - 100.000đ"
                 },
@@ -1472,6 +1675,7 @@
                     "name": "Phở Bò KCC",
                     "address": "Ngõ 12 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/j5woSTx.jpg",
+                    "phone": "0966 668 222",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -1479,6 +1683,7 @@
                     "name": "Made In Fresh - Bánh Mì Chảo",
                     "address": "Kiot 7 Thuỷ Lợi, Ngõ 95 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/45yNCJO.jpg",
+                    "phone": "0966 668 222",
                     "time": "09:00 AM - 10:15 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -1486,6 +1691,7 @@
                     "name": "Bún Đậu Mẹt",
                     "address": "Ngõ 45 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/4ultErS.jpg",
+                    "phone": "0966 668 222",
                     "time": "09:00 AM - 04:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -1493,6 +1699,7 @@
                     "name": "Sao Đêm Quán - Fastfood & Drink",
                     "address": "12 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/vqeC6yR.jpg",
+                    "phone": "0966 668 222",
                     "time": "07:00 AM - 07:00 PM",
                     "price": "5.000đ - 28.000đ"
                 },
@@ -1500,6 +1707,7 @@
                     "name": "Bánh Canh Nghệ An",
                     "address": "Số 1 Ngách 9 Ngõ 95 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/sEXu0hA.jpg",
+                    "phone": "0966 668 222",
                     "time": "06:00 - 09:00 PM",
                     "price": "20.000đ - 50.000đ"
                 }     
@@ -1512,6 +1720,7 @@
                     "name": "Mr.Rolly - Kem Cuộn, Sữa Chua Cuộn",
                     "address": "Ngách 25 Ngõ 167 Tây Sơn, Khu TT ĐH Công Đoàn, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/nKERpSD.jpg",
+                    "phone": "0973 991 352",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "10.000đ - 18.000đ"
                 },
@@ -1519,6 +1728,7 @@
                     "name": "Meo's House Coffee - Cafe Mèo",
                     "address": "7 Ngách 37 Ngõ 167 Tây Sơn, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/nOiI1Wo.jpg",
+                    "phone": "01644 899 137",
                     "time": "07:30 AM - 10:45 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1526,6 +1736,7 @@
                     "name": "BapBap Quán - Đồ Ăn Hàn Quốc",
                     "address": "P118 Nhà 5A Ngõ 167 Tây Sơn, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/1SwNagR.jpg",
+                    "phone": "0986 862 844",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 70.000đ"
                 },
@@ -1533,6 +1744,7 @@
                     "name": "Bò Tơ Tây Ninh Tài Sanh - Chùa Bộc",
                     "address": "8 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/5e0haYi.jpg",
+                    "phone": "024 36 555 656",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "100.000đ - 280.000đ"
                 },
@@ -1540,6 +1752,7 @@
                     "name": "Sinh Tố Nguyệt Hồng",
                     "address": "Đối Diện 4 Ngõ 12 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/DEfjz3S.jpg",
+                    "phone": "0972 340 068",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "6.000đ - 15.000đ"
                 },
@@ -1547,6 +1760,7 @@
                     "name": "Quán Quen - Phở Gà Trộn",
                     "address": "Phòng 112, 5A Ngõ 167 Tây Sơn, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/I7Rz9P3.jpg",
+                    "phone": "0906 167 991",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -1554,6 +1768,7 @@
                     "name": "Cô Dung - Thịt Xiên Nướng",
                     "address": "Ngõ 167 Tây Sơn, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/Cc94Cxk.jpg",
+                    "phone": "0906 167 991",
                     "time": "Sáng: 09:00 AM - 12:00 PM | Chiều: 03:00 PM - 07:00 PM",
                     "price": "7.000đ - 15.000đ"
                 },
@@ -1561,6 +1776,7 @@
                     "name": "Bún Miến Bánh Đa Cua Hải Phòng",
                     "address": "Ngõ 165 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/K5PwWed.jpg",
+                    "phone": "0906 167 991",
                     "time": "10:30 AM - 03:00 PM",
                     "price": "15.000đ - 25.000đ"
                 } 
@@ -1573,6 +1789,7 @@
                     "name": "Chè Sài Gòn Tuyết Nhung",
                     "address": "Ngã Tư Nhổn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/UZY2Q54.jpg",
+                    "phone": "0922 261 996",
                     "time": "09:00 - 21:00",
                     "price": "100,000đ"
                 },
@@ -1580,6 +1797,7 @@
                     "name": "Royal Cafe",
                     "address": "Ngã 4 Nhổn, Đường 32, Nguyên Xá, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/4VHWlwL.jpg",
+                    "phone": "0979 646 679",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 110.000đ"
                 },
@@ -1587,6 +1805,7 @@
                     "name": "Ngọc Nhi - Chè Sài Gòn",
                     "address": "Đường 32, Ngã 4 Nhổn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/QX3hTDa.jpg",
+                    "phone": "0979 646 679",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "8.000đ - 22.000đ"
                 },
@@ -1594,6 +1813,7 @@
                     "name": "HQ Paris Cafe",
                     "address": "Phố Nhổn, Đường 32, Nguyên Xã, Minh Khai, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/J3mEo0Z.jpg",
+                    "phone": "0978 640 269",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "50.000đ - 110.000đ"
                 },
@@ -1601,6 +1821,7 @@
                     "name": "Bún Bò Công Huyền",
                     "address": "Đường 32 Ngã Tư Nhổn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/18GZFWm.jpg",
+                    "phone": "0978 640 269",
                     "time": "06:00 AM - 07:00 PM",
                     "price": "25.000đ - 30.000đ"
                 } 
@@ -1613,6 +1834,7 @@
                     "name": "Canteen Đại Học Thăng Long",
                     "address": "Đại Học Thăng Long, Nghiêm Xuân Yêm, Quận Hoàng Mai, Hà Nội",
                     "image": "http://i.imgur.com/E8W37sZ.jpg",
+                    "phone": "0978 640 269",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "15.000đ - 50.000đ"
                 }
@@ -1625,6 +1847,7 @@
                     "name": "Nồi Chocolate - Tiệm Bánh Nhọ Nồi",
                     "address": "Ngõ 6 Lê Thánh Tông, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/axPQgek.jpg",
+                    "phone": "0164 421 2059",
                     "time": "08:30 AM - 09:00 PM",
                     "price": "25.000đ - 150.000đ"
                 },
@@ -1632,6 +1855,7 @@
                     "name": "Bột - Cakes & Drinks",
                     "address": "13A Lý Thường Kiệt, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/b2QgwzG.jpg",
+                    "phone": "0946 647 385",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "40.000đ - 100.000đ"
                 },
@@ -1639,6 +1863,7 @@
                     "name": "Nhót Nhắm - Ăn Vặt Lai Rai",
                     "address": "9 Lý Thường Kiệt, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/FObz16I.jpg",
+                    "phone": "0946 647 385",
                     "time": "06:30 PM - 12:00 AM",
                     "price": "5.000đ - 50.000đ"
                 },
@@ -1646,6 +1871,7 @@
                     "name": "Út Còi - Mì Quảng Đà Lạt",
                     "address": "10 Lý Thường Kiệt, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/cmnXcuf.jpg",
+                    "phone": "0946 647 385",
                     "time": "07:00 AM - 09:30 PM",
                     "price": "40.000đ - 50.000đ"
                 },
@@ -1653,6 +1879,7 @@
                     "name": "Lẩu Riêu Cua - Lý Thường Kiệt",
                     "address": "6 Lý Thường Kiệt, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/35I3s1p.jpg",
+                    "phone": "0946 647 385",
                     "time": "06:00 PM - 11:00 PM",
                     "price": "20.000đ - 200.000đ"
                 }  
@@ -1665,6 +1892,7 @@
                     "name": "King Dakgalbi - Gà Xào Phô Mai - Vũ Trọng Phụng",
                     "address": "50 Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/vzQbd0k.jpg",
+                    "phone": "01237 538 886",
                     "time": "10:30 AM - 11:00 PM",
                     "price": "50.000đ - 100.000đ"
                 },
@@ -1672,6 +1900,7 @@
                     "name": "Zota Beer Club",
                     "address": "52 Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/XaqZIrB.jpg",
+                    "phone": "0995 555 569",
                     "time": "10:00 AM - 11:30 PM",
                     "price": "100.000đ - 200.000đ"
                 },
@@ -1679,6 +1908,7 @@
                     "name": "Phở Gà Ta 54A",
                     "address": "54A Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/RO1qg93.jpg",
+                    "phone": "0995 555 569",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 33.000đ"
                 },
@@ -1686,6 +1916,7 @@
                     "name": "Cơm Ngon Như Ý",
                     "address": "124 Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/TpLoDcy.jpg",
+                    "phone": "0995 555 569",
                     "time": "09:00 AM - 08:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -1693,6 +1924,7 @@
                     "name": "Phở Gà",
                     "address": "51 Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/gVr24VQ.jpg",
+                    "phone": "0995 555 569",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "25.000đ - 35.000đ"
                 },
@@ -1700,6 +1932,7 @@
                     "name": "Bánh Cuốn & Gà Tần",
                     "address": "53 Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/HEkfZ7a.jpg",
+                    "phone": "0995 555 569",
                     "time": "06:00 AM - 11:00 PM",
                     "price": "20.000đ - 60.000đ"
                 },
@@ -1707,6 +1940,7 @@
                     "name": "Đặc Sản Bún Cá Hải Phòng",
                     "address": "114 Vũ Trọng Phụng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/kWfrdri.jpg",
+                    "phone": "0995 555 569",
                     "time": "07:00 AM - 11:00 PM",
                     "price": "20.000đ - 50.000đ"
                 }
@@ -1719,6 +1953,7 @@
                     "name": "Phở Cồ",
                     "address": "455 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/xOUSNbk.jpg",
+                    "phone": "01666 665 276",
                     "time": "06:30 AM - 09:30 PM",
                     "price": "20.000đ - 44.000đ"
                 },
@@ -1726,6 +1961,7 @@
                     "name": "Ăn Vặt - Cổng Trường Đại Học Điện Lực",
                     "address": "235 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/kcNH5Jc.jpg",
+                    "phone": "01666 665 276",
                     "time": "06:00 PM - 11:00 PM",
                     "price": "6.000đ - 50.000đ"
                 },
@@ -1733,6 +1969,7 @@
                     "name": "Bún Cá Sông Thương",
                     "address": "405 Hoàng Quốc Việt, Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/pUpuOTa.jpg",
+                    "phone": "01666 665 276",
                     "time": "07:00 AM - 02:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -1740,6 +1977,7 @@
                     "name": "Chè Trang Anh",
                     "address": "Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/8doCOtH.jpg",
+                    "phone": "01666 665 276",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -1747,6 +1985,7 @@
                     "name": "Bún, Cơm Rang & Cháo Các Loại",
                     "address": "Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/DrDQVGs.jpg",
+                    "phone": "01666 665 276",
                     "time": "08:00 AM - 05:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -1754,6 +1993,7 @@
                     "name": "Phở Bò",
                     "address": "Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ddbokeH.jpg",
+                    "phone": "01666 665 276",
                     "time": "07:00 AM - 08:00 PM",
                     "price": "22.000đ - 35.000đ"
                 },
@@ -1761,6 +2001,7 @@
                     "name": "Trà Sữa Trân Châu & Kem Tràng Tiền",
                     "address": "Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/LEUHv6S.jpg",
+                    "phone": "01666 665 276",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "10.000đ - 25.000đ"
                 },
@@ -1768,6 +2009,7 @@
                     "name": "Kiên Cancook - Cơm & Phở Các Loại",
                     "address": "427 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/YON2tDv.jpg",
+                    "phone": "01666 665 276",
                     "time": "06:00 AM - 09:00 PM",
                     "price": "25.000đ - 45.000đ"
                 }    
@@ -1780,6 +2022,7 @@
                     "name": "Giang Coi - Cơm Sinh Viên",
                     "address": "Ngõ 234 Hoàng Quốc Việt, P. Cổ Nhuế 1, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/GGJpGa2.jpg",
+                    "phone": "01666 665 276",
                     "time": "10:00 AM - 01:00 PM | 04:00 PM - 08:00 PM",
                     "price": "12.000đ - 20.000đ"
                 },
@@ -1787,6 +2030,7 @@
                     "name": "Bún Chả Hàng Mành - Đặng Thùy Trâm",
                     "address": "4 Đặng Thùy Trâm, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ohQVP7r.jpg",
+                    "phone": "01666 665 276",
                     "time": "06:00 AM - 06:00 PM",
                     "price": "25.000đ - 35.000đ"
                 },
@@ -1794,6 +2038,7 @@
                     "name": "Cơm Phở Bình Dân - Hoàng Quốc Việt",
                     "address": "236 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/RPmEVG9.jpg",
+                    "phone": "01666 665 276",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "25.000đ - 150.000đ"
                 },
@@ -1801,6 +2046,7 @@
                     "name": "Cơ Sở Sản Xuất Bánh Mì Phú Hải",
                     "address": "C10 Ngõ 238 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/SMVjMgQ.jpg",
+                    "phone": "01666 665 276",
                     "time": "06:00 AM - 09:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -1808,6 +2054,7 @@
                     "name": "Bún & Miến Các Loại - Hoàng Quốc Việt",
                     "address": "C10 Ngõ 238 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/gXr90tr.jpg",
+                    "phone": "01666 665 276",
                     "time": "08:00 AM - 08:00 PM",
                     "price": "25.000đ - 50.000đ"
                 } 
@@ -1820,6 +2067,7 @@
                     "name": "K-Pub - Korean BBQ Garden - Phạm Văn Đồng",
                     "address": "9 Phạm Văn Đồng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/SGvQHli.jpg",
+                    "phone": "024 73 040 568",
                     "time": "04:00 PM - 11:00 PM",
                     "price": "150.000đ - 500.000đ"
                 },
@@ -1827,6 +2075,7 @@
                     "name": "Lotteria - Metro Phạm Văn Đồng",
                     "address": "Phạm Văn Đồng, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/bFtzviZ.jpg",
+                    "phone": "024 73 040 568",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 88.000đ"
                 },
@@ -1834,6 +2083,7 @@
                     "name": "Pizza Việt - Phạm Văn Đồng",
                     "address": "Ngõ 1 Phạm Văn Đồng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/F0qvQRL.jpg",
+                    "phone": "024 73 040 568",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "120.000đ - 160.000đ"
                 },
@@ -1841,6 +2091,7 @@
                     "name": "Bánh Mì 1 Phút - Phạm Văn Đồng",
                     "address": "366 Phạm Văn Đồng, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/OhWkTtS.jpg",
+                    "phone": "1900 558 846",
                     "time": "06:00 AM - 09:00 PM",
                     "price": "15.000đ - 20.000đ"
                 }     
@@ -1853,6 +2104,7 @@
                     "name": "The Forasto Coffee - HUBT Vĩnh Tuy",
                     "address": "12/124 Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/mGqDdjC.jpg",
+                    "phone": "024 66 833 335",
                     "time": "07:00 AM - 11:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1860,6 +2112,7 @@
                     "name": "Bánh Giò - Chợ Vĩnh Tuy",
                     "address": "Chợ Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/qesyA44.jpg",
+                    "phone": "024 66 833 335",
                     "time": "06:30 AM - 05:00 PM",
                     "price": "12.000đ - 20.000đ"
                 },
@@ -1867,6 +2120,7 @@
                     "name": "Chè Hai Lúa - Vĩnh Tuy",
                     "address": "27 Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/BKHv10G.jpg",
+                    "phone": "024 66 833 335",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -1874,6 +2128,7 @@
                     "name": "F5 Coffee - Vĩnh Tuy",
                     "address": "68 Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/z5z9Uyj.jpg",
+                    "phone": "0972 128 619",
                     "time": "07:00 AM - 12:00 AM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1881,6 +2136,7 @@
                     "name": "Cháo Sườn - Chân Cầu Vĩnh Tuy",
                     "address": "Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/21vt1Oh.jpg",
+                    "phone": "0972 128 619",
                     "time": "03:00 PM - 11:30 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -1888,6 +2144,7 @@
                     "name": "With Coffee - Vĩnh Tuy",
                     "address": "14 Ngõ 124 Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/TuFxsqk.jpg",
+                    "phone": "0972 128 619",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -1895,6 +2152,7 @@
                     "name": "Bò Né 3 Ngon - Vĩnh Tuy",
                     "address": "76 Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/1SjCb4X.jpg",
+                    "phone": "0941 945 152",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "32.000đ - 50.000đ"
                 }      
@@ -1907,6 +2165,7 @@
                     "name": "Lotteria - Minh Khai",
                     "address": "203 Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/r9LTMUO.jpg",
+                    "phone": "0941 945 152",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "30.000đ - 88.000đ"
                 },
@@ -1914,6 +2173,7 @@
                     "name": "Bánh Mì V+ - Minh Khai",
                     "address": "505 Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/UpGUjcH.jpg",
+                    "phone": "0868 425 099",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1921,6 +2181,7 @@
                     "name": "Bánh Mì Thịt Xiên - Minh Khai",
                     "address": "Ngõ 296 Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/qUS84SM.jpg",
+                    "phone": "0868 425 099",
                     "time": "02:30 PM - 09:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -1928,6 +2189,7 @@
                     "name": "Bún Bò Huế - Minh Khai",
                     "address": "461 Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/Tp1FNEV.jpg",
+                    "phone": "024 22 125 207",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "30.000đ - 55.000đ"
                 },
@@ -1935,6 +2197,7 @@
                     "name": "Chả Bì - Minh Khai",
                     "address": "Chợ Mơ, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/3H5HhN9.jpg",
+                    "phone": "024 22 125 207",
                     "time": "05:00 PM - 09:00 PM",
                     "price": "10.000đ - 20.000đ"
                 },
@@ -1942,6 +2205,7 @@
                     "name": "Bún Ngan - Minh Khai",
                     "address": "Ngõ Gốc Đề, Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/G8evJ9i.jpg",
+                    "phone": "024 22 125 207",
                     "time": "06:00 AM - 02:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -1949,6 +2213,7 @@
                     "name": "Bánh Đúc Nóng - Minh Khai",
                     "address": "296 Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/GvU9nOo.jpg",
+                    "phone": "024 22 125 207",
                     "time": "02:00 PM - 05:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -1956,6 +2221,7 @@
                     "name": "Lẩu Thái Tom Yum - Minh Khai",
                     "address": "252V Minh Khai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/qBzlqpQ.jpg",
+                    "phone": "0978 281 551",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "100.000đ - 150.000đ"
                 }       
@@ -1968,6 +2234,7 @@
                     "name": "Quẩy Nóng - Tạ Quang Bửu",
                     "address": "109 E7 Tạ Quang Bửu, Bách Khoa Hà Nội, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/fbiJHBb.jpg",
+                    "phone": "024 38 681 341",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 33.000đ"
                 },
@@ -1975,6 +2242,7 @@
                     "name": "Bún Ốc - Tạ Quang Bửu",
                     "address": "107 K2 Bách Khoa, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/LcxTOlC.jpg",
+                    "phone": "024 38 681 341",
                     "time": "07:00 AM - 11:00 AM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -1982,6 +2250,7 @@
                     "name": "Bánh Mì Ông Già - Tạ Quang Bửu",
                     "address": "1 Ngõ 40 Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/IQSjbEO.jpg",
+                    "phone": "024 38 681 341",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "10.000đ - 30.000đ"
                 },
@@ -1989,6 +2258,7 @@
                     "name": "Trà Sữa Feeling Tea - Bạch Mai",
                     "address": "401 Bạch Mai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/9bOsNgW.jpg",
+                    "phone": "024 36 271 811",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -1996,6 +2266,7 @@
                     "name": "Nam Phương - Cơm Tấm Sài Gòn - Tạ Quang Bửu",
                     "address": "102 E6 Bách Khoa, Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/IR3m3Wq.jpg",
+                    "phone": "024 38 684 116",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "30.000đ - 55.000đ"
                 },
@@ -2003,6 +2274,7 @@
                     "name": "Suka Caramen",
                     "address": "Số 12A Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/Oplgs1g.jpg",
+                    "phone": "024 38 684 116",
                     "time": "07:00 AM - 11:00 PM",
                     "price": "8.000đ - 39.000đ"
                 },
@@ -2010,6 +2282,7 @@
                     "name": "Bánh Gối Lê Đại Hành",
                     "address": "25 Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/ZC0whz5.jpg",
+                    "phone": "024 38 684 116",
                     "time": "05:00 PM - 10:30 PM",
                     "price": "20.000đ - 55.000đ"
                 },
@@ -2017,6 +2290,7 @@
                     "name": "Tào Phớ Nè",
                     "address": "259 Bạch Mai, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/mfGd6FD.jpg",
+                    "phone": "0966 623 965",
                     "time": "05:00 PM - 10:00 PM",
                     "price": "10.000đ - 50.000đ"
                 }   
@@ -2029,6 +2303,7 @@
                     "name": "The Hawker - Cơm Niêu",
                     "address": "26 Trung Hòa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/j8rV7aj.jpg",
+                    "phone": "0936 084 086",
                     "time": "Trưa: 09:00 AM - 02:00 PM | Tối: 04:00 PM - 10:00 PM",
                     "price": "12.000đ - 65.000đ"
                 },
@@ -2036,6 +2311,7 @@
                     "name": "Octobar - Nhà Hàng Bạch Tuộc Hàn Quốc",
                     "address": "27 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/DofNeam.jpg",
+                    "phone": "024 38 165 999",
                     "time": "10:00 AM - 11:00 PM",
                     "price": "30.000đ - 200.000đ"
                 },
@@ -2043,6 +2319,7 @@
                     "name": "Bánh Mì Huế Ngọc Hiếu - Trần Duy Hưng",
                     "address": "71 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/J37vOda.jpg",
+                    "phone": "024 35 558 464",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "55.000đ - 88.000đ"
                 },
@@ -2050,6 +2327,7 @@
                     "name": "Bánh Mì Minh Nhật - Trần Duy Hưng",
                     "address": "22 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/uscgVNY.jpg",
+                    "phone": "1900 636 146",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "15.000đ - 20.000đ"
                 },
@@ -2057,6 +2335,7 @@
                     "name": "Nấm Việt - Nguyễn Thị Định",
                     "address": "39 Ngõ 1 Nguyễn Thị Định, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ofLGvDC.jpg",
+                    "phone": "1900 636 146",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "50.000đ - 300.000đ"
                 },
@@ -2064,6 +2343,7 @@
                     "name": "Chicken Way - Cơm Gà Hải Nam",
                     "address": "66 Trung Hòa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Dq7uOlf.jpg",
+                    "phone": "1900 636 146",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "50.000đ - 150.000đ"
                 },
@@ -2071,6 +2351,7 @@
                     "name": "Kimchi Kimbab - Trung Hòa",
                     "address": "32 Trung Hòa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/bjYWA4Z.jpg",
+                    "phone": "1900 636 146",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "30.000đ - 100.000đ"
                 }  
@@ -2083,6 +2364,7 @@
                     "name": "Itacho Ramen - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/zhFX1M5.jpg",
+                    "phone": "024 32 019 111",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "25.000đ - 200.000đ"
                 },
@@ -2090,6 +2372,7 @@
                     "name": "Cowboy Jack's American Dining - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/xJ6rLWC.jpg",
+                    "phone": "024 32 019 111",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "100.000đ - 300.000đ"
                 },
@@ -2097,6 +2380,7 @@
                     "name": "Daruma - Quán Ăn Nhật Bản - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/meGGlF1.jpg",
+                    "phone": "024 32 029 111",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "100.000đ - 400.000đ"
                 },
@@ -2104,6 +2388,7 @@
                     "name": "Steak Me - Bít Tết",
                     "address": "35 Ngõ 91 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/mitKFua.jpg",
+                    "phone": "024 32 373 363",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "70.000đ - 200.000đ"
                 },
@@ -2111,6 +2396,7 @@
                     "name": "Sayam Chang - Ẩm Thực Thái Lan",
                     "address": "81 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/LIYk0oy.jpg",
+                    "phone": "024 32 373 363",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "100.000đ - 300.000đ"
                 },
@@ -2118,6 +2404,7 @@
                     "name": "Cơm Nướng Hotto - Vincom Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/7WLe9wr.jpg",
+                    "phone": "024 32 003 652",
                     "time": "08:30 AM - 09:30 PM",
                     "price": "80.000đ - 150.000đ"
                 },
@@ -2125,6 +2412,7 @@
                     "name": "Kichi Kichi Lẩu Băng Chuyền - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/JlAx7gq.jpg",
+                    "phone": "024 32 016 222",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "149.000đ - 220.000đ"
                 }     
@@ -2137,6 +2425,7 @@
                     "name": "Trà Sữa Tocotoco - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng BH, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/Jreo3zm.jpg",
+                    "phone": "0989 139 632",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "37.000đ - 50.000đ"
                 },
@@ -2144,6 +2433,7 @@
                     "name": "Simisi - Korean Foods - Chùa Láng",
                     "address": "18 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/RnsGbOy.jpg",
+                    "phone": "0972 881 828",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "100.000đ - 200.000đ"
                 },
@@ -2151,6 +2441,7 @@
                     "name": "Hotpot Story - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/eB9c4J4.jpg",
+                    "phone": "024 39 360 088",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "200.000đ - 300.000đ"
                 },
@@ -2158,6 +2449,7 @@
                     "name": "Mr.Teppan - Cơm Nướng Chảo Nóng",
                     "address": "10 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/qKuyH0W.jpg",
+                    "phone": "024 39 360 088",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "60.000đ - 140.000đ"
                 },
@@ -2165,6 +2457,7 @@
                     "name": "Dakgalbi Restaurant - Ẩm Thực Hàn Quốc",
                     "address": "54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/XFRADqv.jpg",
+                    "phone": "0964 703 891",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "50.000đ - 300.000đ"
                 },
@@ -2172,6 +2465,7 @@
                     "name": "Neverland Food & Coffee",
                     "address": "28 Chùa Láng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/RsIb4N4.jpg",
+                    "phone": "024 23 202 428",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 100.000đ"
                 },
@@ -2179,6 +2473,7 @@
                     "name": "GoGi House - Nướng Hàn Quốc - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 5, Vincom Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/tqe27yE.jpg",
+                    "phone": "024 32 013 222",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "100.000đ - 300.000đ"
                 },
@@ -2186,6 +2481,7 @@
                     "name": "Fresh Garden Bakery - Vincom Center Nguyễn Chí Thanh",
                     "address": "Tầng 1, Vincom Center Nguyễn Chí Thanh, 54A Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/WyXcrX1.jpg",
+                    "phone": "024 32 013 222",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 300.000đ"
                 }  
@@ -2198,6 +2494,7 @@
                     "name": "Đặc Sản Hải Dương - Bánh Đa & Bún Cá Rô Đồng - Phố Viên",
                     "address": "12 Phố Viên, P. Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/rZw7F4C.jpg",
+                    "phone": "024 32 013 222",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 25.000đ"
                 },
@@ -2205,6 +2502,7 @@
                     "name": "Phố Cổ Cafe - Phố Viên",
                     "address": "14 Phố Viên, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/oCyKRNW.jpg",
+                    "phone": "024 32 013 222",
                     "time": "07:30 AM - 09:30 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -2212,6 +2510,7 @@
                     "name": "Bún, Miến & Mì Tôm",
                     "address": "6 Phố Viên, P. Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/RrQgbJg.jpg",
+                    "phone": "024 32 013 222",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "10.000đ - 25.000đ"
                 },
@@ -2219,6 +2518,7 @@
                     "name": "Chương Thu - Bún Đậu Mắm Tôm",
                     "address": "8 Phố Viên, P. Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/9LB9qMz.jpg",
+                    "phone": "024 32 013 222",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -2226,6 +2526,7 @@
                     "name": "Quỳnh Chi - Gà Ta & Vịt Cỏ",
                     "address": "4 Phố Viên, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/wqZUfGY.jpg",
+                    "phone": "024 32 013 222",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 200.000đ"
                 }  
@@ -2238,6 +2539,7 @@
                     "name": "Steel Coffee",
                     "address": "16 Ngõ 56 Lê Văn Hiến, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/naXVbBx.jpg",
+                    "phone": "0985 972 189",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -2245,6 +2547,7 @@
                     "name": "Grill Roll - Sông Nhuệ",
                     "address": "189 Sông Nhuệ, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/KEJ6c0V.jpg",
+                    "phone": "01678 156 417",
                     "time": "10:00 AM - 10:45 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -2252,6 +2555,7 @@
                     "name": "Quán Bún Tuổi Hoa - Nông Lâm",
                     "address": "Ngõ 3 Nông Lâm, Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/az04oeI.jpg",
+                    "phone": "01678 156 417",
                     "time": "06:00 AM - 07:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -2259,6 +2563,7 @@
                     "name": "Lẩu Nướng Cozi - Học Viện Tài Chính",
                     "address": "129 Lê Văn Hiến, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/meeRaWo.jpg",
+                    "phone": "0906 019 010",
                     "time": "10:00 AM - 10:30 PM",
                     "price": "50.000đ - 150.000đ"
                 },
@@ -2266,6 +2571,7 @@
                     "name": "Minh Đức Quán - Ăn Vặt Sinh Viên",
                     "address": "153 Lê Văn Hiến, P. Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/4Bhpzxr.jpg",
+                    "phone": "0906 019 010",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "10.000đ - 20.000đ"
                 },
@@ -2273,6 +2579,7 @@
                     "name": "Xôi B7",
                     "address": "Cổng KTX B7 Học Viện Tài Chính, Lê Văn Hiến, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/4ZDqQXO.jpg",
+                    "phone": "0906 019 010",
                     "time": "06:00 AM - 09:30 AM",
                     "price": "10.000đ - 15.000đ"
                 },
@@ -2280,6 +2587,7 @@
                     "name": "Ngân Hà - Ẩm Thực Hàn Quốc",
                     "address": "25 Ngõ 56 Lê Văn Hiến, P. Đức Thắng, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/I5LaeRq.jpg",
+                    "phone": "0972 474 989",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 200.000đ"
                 },
@@ -2287,6 +2595,7 @@
                     "name": "Bún Bò Huế - Lê Văn Hiến",
                     "address": "141 Lê Văn Hiến, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/WMw5vch.jpg",
+                    "phone": "0972 474 989",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -2294,6 +2603,7 @@
                     "name": "Bánh Xèo - Lê Văn Hiến",
                     "address": "3 Ngõ 56 Lê Văn Hiến, P. Đức Thắng, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/2fs0pgD.jpg",
+                    "phone": "0986 150 764",
                     "time": "07:30 AM - 09:00 PM",
                     "price": "12.000đ - 30.000đ"
                 },
@@ -2301,6 +2611,7 @@
                     "name": "Tiệm Bánh Mì - Lê Văn Hiến",
                     "address": "95 Lê Văn Hiến, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/3bqofXM.jpg",
+                    "phone": "0986 150 764",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -2308,6 +2619,7 @@
                     "name": "Sữa Chua Dr.Dẻo - Lê Văn Hiến",
                     "address": "16 Ngõ 87 Lê Văn Hiến, P. Nông Lâm, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/4zqDokq.jpg",
+                    "phone": "0986 150 764",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "30.000đ - 60.000đ"
                 },
@@ -2315,6 +2627,7 @@
                     "name": "Bò Né Yope - Lê Văn Hiến",
                     "address": "12 Ngõ 87 Lê Văn Hiến, P. Cổ Nhuế, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/8kSpGvw.jpg",
+                    "phone": "0986 150 764",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 }     
@@ -2327,6 +2640,7 @@
                     "name": "Xôi Rán Đê La Thành",
                     "address": "415 Đê La Thành, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/i9cZuDa.jpg",
+                    "phone": "01638 203 204",
                     "time": "03:00 PM - 10:30 PM",
                     "price": "30.000đ - 66.000đ"
                 },
@@ -2334,6 +2648,7 @@
                     "name": "Quán Lươn Huyền Trang - Đê La Thành",
                     "address": "461 Đê La Thành, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/m7P0hqC.jpg",
+                    "phone": "024 37 724 311",
                     "time": "09:30 AM - 11:00 PM",
                     "price": "25.000đ - 125.000đ"
                 },
@@ -2341,6 +2656,7 @@
                     "name": "Bánh Gối Oanh Oanh - Đê La Thành",
                     "address": "5 Ngách 50 Ngõ 612 Đê La Thành, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/uJCbsh1.jpg",
+                    "phone": "0976 575 922",
                     "time": "01:00 PM - 07:00 PM",
                     "price": "4.000đ - 30.000đ"
                 },
@@ -2348,6 +2664,7 @@
                     "name": "Chè Sài Gòn - Đê La Thành",
                     "address": "491 Đê La Thành, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/5poqjGy.jpg",
+                    "phone": "0976 575 922",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -2355,6 +2672,7 @@
                     "name": "Miến Lươn & Cháo Lươn- Đê La Thành",
                     "address": "451 Đê La Thành, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/GR0kUcQ.jpg",
+                    "phone": "0976 575 922",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -2362,6 +2680,7 @@
                     "name": "Bún Riêu Cua - La Thành",
                     "address": "La Thành, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/cC5M5V4.jpg",
+                    "phone": "0976 575 922",
                     "time": "06:00 AM - 05:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -2369,6 +2688,7 @@
                     "name": "Lẩu Lốp Bốp - La Thành",
                     "address": "1 Ngõ 96 La Thành, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/5Pf3jZE.jpg",
+                    "phone": "0902 159 196",
                     "time": "10:00 AM - 10:30 PM",
                     "price": "100.000đ - 200.000đ"
                 }      
@@ -2381,6 +2701,7 @@
                     "name": "Bánh Canh Ghẹ 69 - Ô Chợ Dừa",
                     "address": "69 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/8sDeXUX.jpg",
+                    "phone": "01236 560 099",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "45.000đ - 70.000đ"
                 },
@@ -2388,6 +2709,7 @@
                     "name": "The Mango Coffee - Ô Chợ Dừa",
                     "address": "72 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/ofjyWfZ.jpg",
+                    "phone": "0973 992 388",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -2395,6 +2717,7 @@
                     "name": "Trà Sữa Bobapop - Ô Chợ Dừa",
                     "address": "166 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/AWSLF9t.jpg",
+                    "phone": "024 62 604 080",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "20.000đ - 40.000đ"
                 },
@@ -2402,6 +2725,7 @@
                     "name": "Nấm Việt Hà Thành - Ô Chợ Dừa",
                     "address": "6A Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/t5B43ha.jpg",
+                    "phone": "0915 555 300",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "50.000đ - 200.000đ"
                 },
@@ -2409,6 +2733,7 @@
                     "name": "Food Street - Ô Chợ Dừa",
                     "address": "111 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/WaHAdtd.jpg",
+                    "phone": "0942 699 111",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "100.000đ - 300.000đ"
                 },
@@ -2416,6 +2741,7 @@
                     "name": "Chè Thái Yom - Ô Chợ Dừa",
                     "address": "115 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/fbiusA8.jpg",
+                    "phone": "0966 277 308",
                     "time": "07:30 AM - 09:30 PM",
                     "price": "15.000đ - 45.000đ"
                 },
@@ -2423,6 +2749,7 @@
                     "name": "Súp Cua Hoa - Ô Chợ Dừa",
                     "address": "151 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/7Nud9y2.jpg",
+                    "phone": "0912 718 282",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "25.000đ - 65.000đ"
                 },
@@ -2430,6 +2757,7 @@
                     "name": "Góc Hà Nội - Ô Chợ Dừa",
                     "address": "160 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/Uf22p0K.jpg",
+                    "phone": "024 66 868 979",
                     "time": "09:30 AM - 11:00 PM",
                     "price": "50.000đ - 650.000đ"
                 },
@@ -2437,6 +2765,7 @@
                     "name": "Quán Choén - Phở Cuốn Ngũ Sắc - Ô Chợ Dừa",
                     "address": "156 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/qVuWC9k.jpg",
+                    "phone": "0926 888 789",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "50.000đ - 100.000đ"
                 },
@@ -2444,6 +2773,7 @@
                     "name": "Bún Bò O Chanh - Ô Chợ Dừa",
                     "address": "30 Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/0di69k4.jpg",
+                    "phone": "0926 888 789",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "35.000đ - 50.000đ"
                 }      
@@ -2456,6 +2786,7 @@
                     "name": "Đệ Nhất Nướng - Yết Kiêu",
                     "address": "104 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/XknamIV.jpg",
+                    "phone": "024 39 413 344",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "200.000đ - 330.000đ"
                 },
@@ -2463,6 +2794,7 @@
                     "name": "Bánh Tráng Trộn - Yết Kiêu",
                     "address": "90A Yết Kiêu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/IcdoYmJ.jpg",
+                    "phone": "0934 675 569",
                     "time": "09:00 AM - 06:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -2470,6 +2802,7 @@
                     "name": "Bánh Mì Phúc - Yết Kiêu",
                     "address": "9 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/4oGcVNE.jpg",
+                    "phone": "0934 675 569",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "70.000đ - 100.000đ"
                 },
@@ -2477,6 +2810,7 @@
                     "name": "Bánh Tráng Thịt Heo Phú Cường - Yết Kiêu",
                     "address": "106 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/wBWLQ8K.jpg",
+                    "phone": "024 62 778 877",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "80.000đ - 165.000đ"
                 },
@@ -2484,6 +2818,7 @@
                     "name": "Phở Bò, Gà 90 - Yết Kiêu",
                     "address": "90 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/pvmjtPf.jpg",
+                    "phone": "024 62 778 877",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 55.000đ"
                 },
@@ -2491,6 +2826,7 @@
                     "name": "Phở Gà Ta 98 - Yết Kiêu",
                     "address": "98 Yết Kiêu, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/wTMu5mi.jpg",
+                    "phone": "024 62 778 877",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 39.000đ"
                 },
@@ -2498,6 +2834,7 @@
                     "name": "Bánh Cuốn Gia An - Yết Kiêu",
                     "address": "114A Yết Kiêu, P. Nguyễn Du, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/FnQP9Ll.jpg",
+                    "phone": "024 39 411 665",
                     "time": "Sáng: 06:00 AM - 01:30 PM | Chiều: 03:30 PM - 09:00 PM",
                     "price": "15.000đ - 50.000đ"
                 }  
@@ -2510,6 +2847,7 @@
                     "name": "Nem Nướng Nha Trang",
                     "address": "Đường Y, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/UagrKgw.jpg",
+                    "phone": "024 39 411 665",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "20.000đ - 100.000đ"
                 },
@@ -2517,6 +2855,7 @@
                     "name": "Bờm Quán - Bia Hơi & Lẩu Các Món",
                     "address": "25 Đường B Đào Nguyên, Thị Trấn Trâu Quỳ, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/E0WiznW.jpg",
+                    "phone": "0945 561 990",
                     "time": "10:00 AM - 10:30 PM",
                     "price": "20.000đ - 200.000đ"
                 },
@@ -2524,6 +2863,7 @@
                     "name": "Korean BBQ - Thịt Nướng Hàn Quốc - Đào Nguyên",
                     "address": "30 Đào Nguyên, Ngô Xuân Quảng, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/Jo7Bjz6.jpg",
+                    "phone": "024 62 922 623",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "8.000đ - 189.000đ"
                 },
@@ -2531,6 +2871,7 @@
                     "name": "Lẩu Nướng & Cơm Gà Hongkong - ĐH Nông Nghiệp",
                     "address": "5 Đường S, ĐH Nông Nghiệp, Thị Trấn Trâu Quỳ, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/AOGOo5N.jpg",
+                    "phone": "0902 355 535",
                     "time": "04:00 PM - 11:00 PM",
                     "price": "30.000đ - 250.000đ"
                 },
@@ -2538,6 +2879,7 @@
                     "name": "Tok Tok - Korean Food & Dessert",
                     "address": "375A Ngô Xuân Quảng , Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/f9Yf6mz.jpg",
+                    "phone": "0965 527 961",
                     "time": "07:30 AM - 10:00 PM",
                     "price": "25.000đ - 120.000đ"
                 },
@@ -2545,6 +2887,7 @@
                     "name": "Tân Tân Quán - Đường S",
                     "address": "14 Đường S, Thị Trấn Trâu Quỳ, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/jF5XZDi.jpg",
+                    "phone": "0965 527 961",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -2552,6 +2895,7 @@
                     "name": "Bánh Đa Cá Hải Phòng - Đường G",
                     "address": "15 Đường G, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/eJhMK7B.jpg",
+                    "phone": "0965 527 961",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "25.000đ - 40.000đ"
                 },
@@ -2559,6 +2903,7 @@
                     "name": "Thủy Chung - Vịt Cỏ Vân Đình",
                     "address": "Thôn Cam, Cổ Bi, Chợ Vàng, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/fWNA73U.jpg",
+                    "phone": "0965 527 961",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "80.000đ - 150.000đ"
                 },
@@ -2566,6 +2911,7 @@
                     "name": "Hiếu 79S - Bánh Mì Chảo",
                     "address": "56 Đào Nguyên C, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/Mi3Qm2W.jpg",
+                    "phone": "0983 478 876",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "23.000đ - 40.000đ"
                 },
@@ -2573,6 +2919,7 @@
                     "name": "Quán Lẩu Lòng Bò",
                     "address": "11 Đường G, Thị Trấn Trâu Quỳ, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/PLdQBXK.jpg",
+                    "phone": "0983 478 876",
                     "time": "06:00 AM - 11:00 PM",
                     "price": "20.000đ - 200.000đ"
                 }     
@@ -2585,6 +2932,7 @@
                     "name": "Lotteria - Trung Kính",
                     "address": "299 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/qr1ScDr.jpg",
+                    "phone": "0983 478 876",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 110.000đ"
                 },
@@ -2592,6 +2940,7 @@
                     "name": "Hải Sản Hồ Trung Kính",
                     "address": "9 Ngõ 43 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/jSfQRU1.jpg",
+                    "phone": "024 37 834 898",
                     "time": "08:30 AM - 11:00 PM",
                     "price": "100.000đ - 275.000đ"
                 },
@@ -2599,6 +2948,7 @@
                     "name": "Cột Điện Quán - Bánh Mì Chảo - Trung Kính",
                     "address": "8 Ngõ 22 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/qlEnVOM.jpg",
+                    "phone": "024 37 834 898",
                     "time": "08:30 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -2606,6 +2956,7 @@
                     "name": "Phở Lang Liêu - Trung Kính",
                     "address": "92 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/z6uekmv.jpg",
+                    "phone": "024 37 840 423",
                     "time": "06:30 AM - 09:30 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -2613,6 +2964,7 @@
                     "name": "Lẩu Cua Bay - Trung Kính",
                     "address": "72 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/B7z4iP3.jpg",
+                    "phone": "024 37 840 423",
                     "time": "08:00 AM - 11:00 PM",
                     "price": "100.000đ - 300.000đ"
                 },
@@ -2620,6 +2972,7 @@
                     "name": "Phở Bát Đàn - Trung Kính",
                     "address": "140 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/X5dnPJi.jpg",
+                    "phone": "024 37 840 423",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "30.000đ - 55.000đ"
                 },
@@ -2627,6 +2980,7 @@
                     "name": "Five Star Chicken - Trung Kính",
                     "address": "69 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/3h75Yp5.jpg",
+                    "phone": "024 37 840 423",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "7.000đ - 32.000đ"
                 },
@@ -2634,6 +2988,7 @@
                     "name": "Cơm Ngon Phố Cổ - Trung Kính",
                     "address": "66 Trung Kính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/4kmW30N.jpg",
+                    "phone": "024 35 656 789",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 80.000đ"
                 }       
@@ -2646,6 +3001,7 @@
                     "name": "Cowboy Jack's American Dining - Tràng Thi",
                     "address": "8 Tràng Thi, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/dcS5NMh.jpg",
+                    "phone": "024 36 367 755",
                     "time": "Sáng: 11:00 AM - 02:00 PM | Chiều: 05:00 PM - 09:30 PM",
                     "price": "150.000đ - 300.000đ"
 
@@ -2654,6 +3010,7 @@
                     "name": "Phố Biển - Tràng Thi",
                     "address": "14 Tràng Thi, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/ryD8MkC.jpg",
+                    "phone": "024 39 285 757",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "100.000đ - 550.000đ"
                 },
@@ -2661,6 +3018,7 @@
                     "name": "Món Huế - Tràng Thi",
                     "address": "75 Tràng Thi, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/Do2MpVc.jpg",
+                    "phone": "024 71 066 600",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "50.000đ - 150.000đ"
                 },
@@ -2668,6 +3026,7 @@
                     "name": "Fresh Garden Bakery - Tràng Thi",
                     "address": "58 Tràng Thi, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/pKy6Dil.jpg",
+                    "phone": "024 71 066 600",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 55.000đ"
                 },
@@ -2675,6 +3034,7 @@
                     "name": "Ảnh Cafe - Tràng Thi",
                     "address": "50 Tràng Thi, Quận Hoàn Kiếm, Hà Nội",
                     "image": "http://i.imgur.com/kEsmq46.jpg",
+                    "phone": "0988 882 533",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 }    
@@ -2687,6 +3047,7 @@
                     "name": "Bún Đậu Mắm Tôm - Hồ Tùng Mậu",
                     "address": "TT Đại Học Thương Mại, Hồ Tùng Mậu, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/FvGuys5.jpg",
+                    "phone": "0936 285 993",
                     "time": "10:00 AM - 08:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -2694,6 +3055,7 @@
                     "name": "Anh Nguyễn - Thịt Xá Xíu & Gà Quay Da Giòn",
                     "address": "X4 TT. Đại Học Thương Mại, Hồ Tùng Mậu, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/JEBNWcX.jpg",
+                    "phone": "0972 179 933",
                     "time": "07:00 AM - 07:00 PM",
                     "price": "20.000đ - 200.000đ"
                 },
@@ -2701,6 +3063,7 @@
                     "name": "Bánh Mì Chảo Cú Xanh - Tập Thể ĐH Thương Mại",
                     "address": "48E Tập Thể ĐH Thương Mại, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Escz189.jpg",
+                    "phone": "0972 179 933",
                     "time": "07:30 AM - 11:00 PM",
                     "price": "28.000đ - 50.000đ"
                 },
@@ -2708,6 +3071,7 @@
                     "name": "Anh Tú Bakery - Hồ Tùng Mậu",
                     "address": "18 Hồ Tùng Mậu, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/qVVWR61.jpg",
+                    "phone": "0913 232 865",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 250.000đ"
                 },
@@ -2715,6 +3079,7 @@
                     "name": "Cháo Hải Sản",
                     "address": "Nhà C3 Khu X4 TT ĐH Thương Mại, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/nppluKP.jpg",
+                    "phone": "0904 056 078",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -2722,6 +3087,7 @@
                     "name": "King Bread - Bánh Mì Kẹp - Hồ Tùng Mậu",
                     "address": "1 Hồ Tùng Mậu, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/udp6SUg.jpg",
+                    "phone": "0969 181 515",
                     "time": "06:00 AM - 10:00 PM",
                     "price": "6.000đ - 39.000đ"
                 },
@@ -2729,6 +3095,7 @@
                     "name": "Chè & Tào Phớ - Đại Học Thương Mại",
                     "address": "Cổng Sau Đại Học Thương Mại, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/oeJ2w8w.jpg",
+                    "phone": "0969 181 515",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "5.000đ - 15.000đ"
                 },
@@ -2736,6 +3103,7 @@
                     "name": "Bún Bò Huế Sông Hương - TT Thương Mại",
                     "address": "Ki Ốt 5 TT Thương Mại, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/ubJgasZ.jpg",
+                    "phone": "0969 181 515",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "30.000đ - 35.000đ"
                 }      
@@ -2748,6 +3116,7 @@
                     "name": "Tào Phớ Việt - Mai Dịch",
                     "address": "Kiot Số 1 KTX Cao Đẳng Múa Việt Nam, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/S4UrdHX.jpg",
+                    "phone": "01665 828 886",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "8.000đ - 35.000đ"
                 },
@@ -2755,6 +3124,7 @@
                     "name": "Hướng Đạo - Cháo Lòng Tiết Canh",
                     "address": "8 Ngõ 187 Mai Dịch, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/wS6TSxo.jpg",
+                    "phone": "0944 868 861",
                     "time": "09:00 AM - 02:00 PM",
                     "price": "20.000đ - 100.000đ"
                 },
@@ -2762,6 +3132,7 @@
                     "name": "Student Cafe - Mai Dịch",
                     "address": "KTX Cao Đẳng Múa Việt Nam, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/cIqZSuL.jpg",
+                    "phone": "0944 868 861",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -2769,6 +3140,7 @@
                     "name": "Bún Đậu Đồng Quê - Mai Dịch",
                     "address": "6 Ngõ 76 Mai Dịch, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/BufdLnA.jpg",
+                    "phone": "01668 519 071",
                     "time": "09:00 AM - 08:30 PM",
                     "price": "15.000đ - 35.000đ"
                 },
@@ -2776,6 +3148,7 @@
                     "name": "Bún Cá Thúy Béo - Mai Dịch",
                     "address": "44 Khu TT Trường Sân Khấu Điện Ảnh, P. Mai Dịch, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/znaEtZ0.jpg",
+                    "phone": "01668 519 071",
                     "time": "07:00 AM - 05:30 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -2783,6 +3156,7 @@
                     "name": "Hiền Anh - Bún Cá, Bún Mọc & Bún Móng Giò",
                     "address": "1 Ngõ 76 Mai Dịch, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/KEec16p.jpg",
+                    "phone": "01668 519 071",
                     "time": "07:00 AM - 08:30 PM",
                     "price": "25.000đ - 30.000đ"
                 },
@@ -2790,6 +3164,7 @@
                     "name": "Minh Quý - Bún, Bánh Đa & Cháo",
                     "address": "2 Ngõ 76 Mai Dịch, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/hofPw8C.jpg",
+                    "phone": "01668 519 071",
                     "time": "06:00 AM - 02:00 PM",
                     "price": "25.000đ - 35.000đ"
                 }    
@@ -2802,6 +3177,7 @@
                     "name": "Chè Nhà Cốm",
                     "address": "Kiot 30 Khu Tập Thể Trường ĐH THuỷ Lợi, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/q49Jkrs.jpg",
+                    "phone": "01668 519 071",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "5.000đ - 30.000đ"
                 },
@@ -2809,6 +3185,7 @@
                     "name": "Việt Tiến Quán - Bún, Phở, Sinh Tố Các Loại",
                     "address": "Ngõ 12 Chùa Bộc, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/HvfcDt0.jpg",
+                    "phone": "01668 519 071",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "25.000đ - 150.000đ"
                 },
@@ -2816,6 +3193,7 @@
                     "name": "Bún Cá - Thủy Lợi",
                     "address": "Sau Trường Đại Học Thủy Lợi , Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/jTUXKI9.jpg",
+                    "phone": "01678 407 174",
                     "time": "07:00 AM - 09:30 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -2823,6 +3201,7 @@
                     "name": "Chè Diệp Béo",
                     "address": "Ki Ốt 15 Đại Học Thuỷ Lợi, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/Tn5jYPt.jpg",
+                    "phone": "0936 231 765",
                     "time": "08:00 AM - 09:30 PM",
                     "price": "12.000đ - 25.000đ"
                 },
@@ -2830,6 +3209,7 @@
                     "name": "Chè Singapore - Chợ Thủy Lợi",
                     "address": "Chợ Thuỷ Lợi, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/tuG6CsY.jpg",
+                    "phone": "0936 231 765",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -2837,6 +3217,7 @@
                     "name": "Bún, Phở, Cơm Rang",
                     "address": "Kiôt 35 Đại Học Thủy Lợi, Khương Thượng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/U03SEAR.jpg",
+                    "phone": "0936 231 765",
                     "time": "06:30 AM - 10:30 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -2844,6 +3225,7 @@
                     "name": "Quán Lòng Thuỷ Lợi",
                     "address": "Chợ Thuỷ Lợi, Khương Thượng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/ywo6yBJ.jpg",
+                    "phone": "0936 231 765",
                     "time": "05:00 PM - 11:00 PM",
                     "price": "5.000đ - 20.000đ"
                 } 
@@ -2856,6 +3238,7 @@
                     "name": "Chè Sài Gòn - Tôn Thất Tùng",
                     "address": "36 Tôn Thất Tùng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/DWkJ2eW.jpg",
+                    "phone": "0912 528 565",
                     "time": "08:00 AM - 08:00 PM",
                     "price": "8.000đ - 17.000đ"
                 },
@@ -2863,6 +3246,7 @@
                     "name": "Gà Tần, Xôi, Cháo, Bánh Mì - Tôn Thất Tùng",
                     "address": "36A Tôn Thất Tùng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/oT64njx.jpg",
+                    "phone": "01677 668 084",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -2870,6 +3254,7 @@
                     "name": "Thịt Xiên Nướng 2k",
                     "address": "Tôn Thất Tùng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/OI9Ofig.jpg",
+                    "phone": "01677 668 084",
                     "time": "03:00 PM - 09:00 PM",
                     "price": "2.000đ - 20.000đ"
                 },
@@ -2877,6 +3262,7 @@
                     "name": "Bánh Mì, Bánh Ngọt Các Loại - Tôn Thất Tùng",
                     "address": "195 Ngõ 22 Tôn Thất Tùng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/vTY5dnZ.jpg",
+                    "phone": "01677 668 084",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 200.000đ"
                 },
@@ -2884,6 +3270,7 @@
                     "name": "Khu Trà Chanh - Đại Học Y",
                     "address": "1 Tôn Thất Tùng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/ibBnkjR.jpg",
+                    "phone": "01677 668 084",
                     "time": "08:00 AM - 11:30 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -2891,6 +3278,7 @@
                     "name": "Y Cafe",
                     "address": "108 B1 Tập Thể Đại Học Y, Tôn Thất Tùng, P. Trung Tự, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/dwq8Yjc.jpg",
+                    "phone": "01677 668 084",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "25.000đ - 66.000đ"
                 },
@@ -2898,6 +3286,7 @@
                     "name": "Ốc, Nem & Khoai Rán",
                     "address": "Ngõ B1 Tôn Thất Tùng, P. Khương Thượng, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/7HTaNoX.jpg",
+                    "phone": "01677 668 084",
                     "time": "06:00 PM - 11:00 PM",
                     "price": "30.000đ - 150.000đ"
                 }
@@ -2910,6 +3299,7 @@
                     "name": "Bánh Cuốn Tôm Thịt Thanh Hóa - Giải Phóng",
                     "address": "251 Giải Phóng, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/seDwZPt.jpgs",
+                    "phone": "01677 668 084",
                     "time": "06:00 AM - 01:30 PM",
                     "price": "12.000đ - 15.000đ"
                 },
@@ -2917,6 +3307,7 @@
                     "name": "Giải Phóng Coffee",
                     "address": "263 Giải Phóng, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/hHpf8KH.jpg",
+                    "phone": "0967 599 887",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "25.000đ - 150.000đ"
                 },
@@ -2924,6 +3315,7 @@
                     "name": "Bún Các Loại - Giải Phóng",
                     "address": "1141/136/8 Giải Phóng, Quận Hoàng Mai, Hà Nội",
                     "image": "http://i.imgur.com/pWZ2OrL.jpg",
+                    "phone": "0967 599 887",
                     "time": "06:00 AM - 10:00 AM",
                     "price": "25.000đ - 30.000đ"
                 },
@@ -2931,6 +3323,7 @@
                     "name": "Phở Cồ - Giải Phóng",
                     "address": "166 Giải Phóng, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/zYaIefc.jpg",
+                    "phone": "0975 754 328",
                     "time": "06:30 AM - 09:30 PM",
                     "price": "15.000đ - 33.000đ"
                 },
@@ -2938,6 +3331,7 @@
                     "name": "Bánh Mì & Xôi - Giải Phóng",
                     "address": "127 Ngõ 1141 Giải Phóng, Quận Hoàng Mai, Hà Nội",
                     "image": "http://i.imgur.com/cMRokH6.jpg",
+                    "phone": "0975 754 328",
                     "time": "06:00 AM - 09:00 AM",
                     "price": "5.000đ - 20.000đ"
                 }   
@@ -2950,6 +3344,7 @@
                     "name": "Okbingsul - Nguyễn Phong Sắc",
                     "address": "125 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/VLr2oEY.jpg",
+                    "phone": "0968 533 961",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "50.000đ - 200.000đ"
                 },
@@ -2957,6 +3352,7 @@
                     "name": "Gà Rán Kuccu - Nguyễn Phong Sắc",
                     "address": "126 Nguyễn Phong Sắc, P. Dịch Vọng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/wnsVhE7.jpg",
+                    "phone": "0987 536 969",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "35.000đ - 275.000đ"
                 },
@@ -2964,6 +3360,7 @@
                     "name": "KOMBO - Cơm Niêu Singapore - Nguyễn Phong Sắc",
                     "address": "86 Nguyễn Phong Sắc, P. Dịch Vọng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/W2xdbxF.jpg",
+                    "phone": "0903 446 836",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "30.000đ - 110.000đ"
                 },
@@ -2971,6 +3368,7 @@
                     "name": "Taiwan Good Tea - Nguyễn Phong Sắc",
                     "address": "105 K2 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/aOeCQJo.jpg",
+                    "phone": "024 37 911 666",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "25.000đ - 45.000đ"
                 },
@@ -2978,6 +3376,7 @@
                     "name": "Mì Cay Nagasaki - Nguyễn Phong Sắc",
                     "address": "133 Nguyễn Phong Sắc, P. Nghĩa Tân, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/F9HNd82.jpg",
+                    "phone": "024 37 911 666",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "15.000đ - 49.000đ"
                 },
@@ -2985,6 +3384,7 @@
                     "name": "Kafe Land - Nguyễn Phong Sắc",
                     "address": "146 Nguyễn Phong Sắc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/qeV4Yjo.jpg",
+                    "phone": "024 85 822 199",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "20.000đ - 400.000đ"
                 },
@@ -2992,6 +3392,7 @@
                     "name": "Bánh Mì & Xôi - Giải Phóng",
                     "address": "127 Ngõ 1141 Giải Phóng, Quận Hoàng Mai, Hà Nội",
                     "image": "http://i.imgur.com/MeJKFNd.jpg",
+                    "phone": "024 85 822 199",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "70.000đ - 300.000đ"
                 }     
@@ -3004,6 +3405,7 @@
                     "name": "Giang Coi - Cơm Sinh Viên",
                     "address": "Ngõ 234 Hoàng Quốc Việt, P. Cổ Nhuế 1, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/d1sQ1GA.jpg",
+                    "phone": "024 85 822 199",
                     "time": "10:00 AM - 01:00 PM | 04:00 PM - 08:00 PM",
                     "price": "12.000đ - 20.000đ"
                 },
@@ -3011,6 +3413,7 @@
                     "name": "Bánh Mì, Bánh Bao & Bánh Giò",
                     "address": "Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/dUra8L8.jpg",
+                    "phone": "024 85 822 199",
                     "time": "06:00 AM - 05:00 PM",
                     "price": "15.000đ - 20.000đ"
                 },
@@ -3018,6 +3421,7 @@
                     "name": "Ba Đức - Cơm Tám",
                     "address": "22 Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/i3GPQ6K.jpg",
+                    "phone": "024 85 822 199",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "25.000đ - 70.000đ"
                 },
@@ -3025,6 +3429,7 @@
                     "name": "Ánh Dương - Phở Bò",
                     "address": "Ngõ 234 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/haaLtcd.jpg",
+                    "phone": "024 85 822 199",
                     "time": "07:00 AM - 08:00 PM",
                     "price": "22.000đ - 35.000đ"
                 }    
@@ -3037,6 +3442,7 @@
                     "name": "Bánh Mì - Nguyễn Hiền",
                     "address": "Tập Thể Bách Khoa Nguyễn Hiền, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/rJOB99Z.jpg",
+                    "phone": "024 85 822 199",
                     "time": "07:00 PM - 09:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -3044,6 +3450,7 @@
                     "name": "X - Coffee - Nguyễn Hiền",
                     "address": "103 K10 Khu TT Bách Khoa, Nguyễn Hiền, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/UpBrA2I.jpg",
+                    "phone": "0982 439 636",
                     "time": "06:30 AM - 11:30 PM",
                     "price": "15.000đ - 35.000đ"
                 },
@@ -3051,6 +3458,7 @@
                     "name": "Duy Long - Cơm Rang & Phở Xào",
                     "address": "106 K10A Nguyễn Hiền, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/qMvYER1.jpg",
+                    "phone": "0982 439 636",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "25.000đ - 35.000đ"
                 },
@@ -3058,6 +3466,7 @@
                     "name": "Loyal Coffee",
                     "address": "106 K10B Nguyễn Hiền, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/1FQFYUN.jpg",
+                    "phone": "0904 169 198",
                     "time": "07:30 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -3065,6 +3474,7 @@
                     "name": "Sun Xoăn - Fastfood & Drink",
                     "address": "107 K17 Nguyễn Hiền, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/hJW02nT.jpg",
+                    "phone": "0904 169 198",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -3072,6 +3482,7 @@
                     "name": "Món Ngon Thanh Hóa",
                     "address": "108 K17 Nguyễn Hiền, Quận Hai Bà Trưng, Hà Nội",
                     "image": "http://i.imgur.com/cRTpuDp.jpg",
+                    "phone": "0982 863 689",
                     "time": "07:30 AM - 10:00 PM",
                     "price": "15.000đ - 30.000đ"
                 } 
@@ -3090,6 +3501,7 @@
                     "name": "Quán Kimbap - Ẩm Thực Hàn Quốc",
                     "address": "Đối Diện Số 41 Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/et0RSVB.jpg",
+                    "phone": "01666 866 660",
                     "time": "11:30 AM - 09:00 PM",
                     "price": "10.000đ - 280.000đ"
                 },
@@ -3097,6 +3509,7 @@
                     "name": "Phở Bò Tuấn Cồ - Khu TĐC Phú Diễn",
                     "address": "Khu Tái Định Cư Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/qlvjDMY.jpg",
+                    "phone": "01666 866 660",
                     "time": "06:45 AM - 10:00 PM",
                     "price": "20.000đ - 45.000đ"
                 },
@@ -3104,6 +3517,7 @@
                     "name": "Sành Quán - Lợn Mẹt & Gà Đồi",
                     "address": "TT5 Khu TĐC Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/qmL3fkE.jpg",
+                    "phone": "01666 866 660",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "7.000đ - 200.000đ"
                 },
@@ -3111,6 +3525,7 @@
                     "name": "Lẩu Vịt Nam Hải - Khu TĐC Phú Diễn",
                     "address": "Khu Tái Định Cư Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/LjMTwYP.jpg",
+                    "phone": "01666 866 660",
                     "time": "10:00 AM - 11:00 PM",
                     "price": "50.000đ - 300.000đ"
                 },
@@ -3118,6 +3533,7 @@
                     "name": "Bún Đậu Mẹt Tễu Quán",
                     "address": "188 KTĐC Phú Diễn, Cầu Diễn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/5j2FyJB.jpg",
+                    "phone": "0949 241 189",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -3125,6 +3541,7 @@
                     "name": "Nướng Sapa",
                     "address": "Ngõ 187 Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/QZQ3hXE.jpg",
+                    "phone": "0949 241 189",
                     "time": "06:30 PM - 11:30 PM",
                     "price": "5.000đ - 15.000đ"
                 }     
@@ -3137,6 +3554,7 @@
                     "name": "Hải Giang - Bún Chả",
                     "address": "379 Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/8oLlo9E.jpg",
+                    "phone": "0949 241 189",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -3144,6 +3562,7 @@
                     "name": "Phương Châm - Cơm Bình Dân",
                     "address": "Xóm 19A, Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/MnnZBqL.jpg",
+                    "phone": "0949 241 189",
                     "time": "08:30 AM - 06:00 PM",
                     "price": "25.000đ - 70.000đ"
                 },
@@ -3151,6 +3570,7 @@
                     "name": "Vịt Nướng - Cổ Nhuế",
                     "address": "342 Cổ Nhuế, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/pKp0gzf.jpg",
+                    "phone": "0949 241 189",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 300.000đ"
                 },
@@ -3158,6 +3578,7 @@
                     "name": "Phở 24 - Phở Bò Gia Truyền Nam Định",
                     "address": "294 Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/IKQzPI0.jpg",
+                    "phone": "0989 028 620",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "25.000đ - 35.000đ"
                 },
@@ -3165,6 +3586,7 @@
                     "name": "Cục Tác - Lẩu & Gà Đồi Yên Thế",
                     "address": "353 Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/eDeZ8Dw.jpg",
+                    "phone": "0989 028 620",
                     "time": "07:00 AM - 11:00 PM",
                     "price": "30.000đ - 150.000đ"
                 },
@@ -3172,6 +3594,7 @@
                     "name": "Cháo Lòng - Cổ Nhuế",
                     "address": "315 Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/sxFcLJ5.jpg",
+                    "phone": "0989 028 620",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -3179,6 +3602,7 @@
                     "name": "Nga Sơn - Bún Chả & Bún Đậu",
                     "address": "244 Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/h41yRIW.jpg",
+                    "phone": "0989 028 620",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -3186,6 +3610,7 @@
                     "name": "Bún Chả Hàng Mành & Nem Cua Bể",
                     "address": "233 Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/1kPxyax.jpg",
+                    "phone": "0989 028 620",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 30.000đ"
                 }     
@@ -3198,6 +3623,7 @@
                     "name": "Ăn Nhanh One One - Xuân La",
                     "address": "36 Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/FZ2g4sp.jpg",
+                    "phone": "0989 028 620",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -3205,6 +3631,7 @@
                     "name": "IL DIVO Restaurant - Xuân La",
                     "address": "26A Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/Z04cTg4.jpg",
+                    "phone": "0937 551 988",
                     "time": "10:00 AM - 11:30 PM",
                     "price": "150.000đ - 250.000đ"
                 },
@@ -3212,6 +3639,7 @@
                     "name": "Ding Dong Tea - Xuân La",
                     "address": "89 Đường Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/JcWrhPJ.jpg",
+                    "phone": "0937 551 988",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "15.000đ - 30.000đ"
                 },
@@ -3219,6 +3647,7 @@
                     "name": "Bún Cá Rô Gia Truyền",
                     "address": "34 Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/a1f8cOL.jpg",
+                    "phone": "0937 551 988",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "20.000đ - 25.000đ"
                 },
@@ -3226,6 +3655,7 @@
                     "name": "One One - Bánh Mì Doner Kebab - Xuân La",
                     "address": "34 Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/gYBdYeH.jpg",
+                    "phone": "0937 551 988",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "25.000đ - 40.000đ"
                 },
@@ -3233,6 +3663,7 @@
                     "name": "Quán Ông Già - Phở Bò Nam Định - Xuân La",
                     "address": "36A Ngõ 38 Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/HFSgIbC.jpg",
+                    "phone": "0937 551 988",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -3240,6 +3671,7 @@
                     "name": "Kim Tuyến - Bún Chả, Bún Nem - Xuân La",
                     "address": "38 Xuân La, Quận Tây Hồ, Hà Nội",
                     "image": "http://i.imgur.com/tYwYV1w.jpg",
+                    "phone": "0937 551 988",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -3247,6 +3679,7 @@
                     "name": "Quán 38 - Lẩu & Nướng",
                     "address": "Xuân La, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/GfqkVKOs.jpg",
+                    "phone": "0937 551 988",
                     "time": "04:00 PM - 10:00 PM",
                     "price": "50.000đ - 150.000đ"
                 }     
@@ -3259,6 +3692,7 @@
                     "name": "KFC - Trung Hòa Nhân Chính",
                     "address": "Tầng 1, Toà Nhà 24T1, Khu Đô Thị Trung Hoà - Nhân Chính, P. Trung Hoà, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/gYBdYeH.jpg",
+                    "phone": "1900 6886",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "30.000đ - 88.000đ"
                 },
@@ -3266,6 +3700,7 @@
                     "name": "Chè N5D - Trung Hòa Nhân Chính",
                     "address": "N5D Trung Hoà Nhân Chính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/wz8xsK9.jpg",
+                    "phone": "1900 6886",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "15.000đ - 25.000đ"
                 },
@@ -3273,6 +3708,7 @@
                     "name": "Quán Ngon Tâm Việt - Trung Hòa Nhân Chính",
                     "address": "Tầng 1 Nhà N6A KĐT Trung Hoà Nhân Chính, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/PfYKTWu.jpg",
+                    "phone": "1900 6886",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "25.000đ - 250.000đ"
                 },
@@ -3280,6 +3716,7 @@
                     "name": "Akaari - Nhà Hàng Nhật Bản - KĐT Trung Hòa Nhân Chính",
                     "address": "Tầng 1, 17T7 KĐT Trung Hòa Nhân Chính, Quận Thanh Xuân, Hà Nội",
                     "image": "http://i.imgur.com/620FCYL.jpg",
+                    "phone": "024 66 830 022",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "200.000đ - 400.000đ"
                 }  
@@ -3292,6 +3729,7 @@
                     "name": "Pow Pow Snow - Đội Cấn",
                     "address": "166E Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/8wGGq2w.jpg",
+                    "phone": "01263 021 903",
                     "time": "10:00 AM - 10:30 PM",
                     "price": "20.000đ - 70.000đ"
                 },
@@ -3299,6 +3737,7 @@
                     "name": "Bánh Xèo Nem Lụi - Đội Cấn",
                     "address": "166B Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/yFa1Yao.jpg",
+                    "phone": "0968 877 752",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -3306,6 +3745,7 @@
                     "name": "Ốc Ken Sài Gòn - Đội Cấn",
                     "address": "8 Ngõ 135 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/P9J1LS9.jpg",
+                    "phone": "024 62 734 475",
                     "time": "Trưa: 10:00 AM - 02:00 PM | Tối: 04:00 PM - 11:00 PM",
                     "price": "15.000đ - 100.000đ"
                 },
@@ -3313,6 +3753,7 @@
                     "name": "Bún Ốc Cổ - Bún Ốc Đội Cấn",
                     "address": "202 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/9FUXBO1.jpg",
+                    "phone": "0936 829 966",
                     "time": "06:30 AM - 08:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -3320,6 +3761,7 @@
                     "name": "Chè Thái Lan - 75 Đội Cấn",
                     "address": "75 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/shPF7Pp.jpg",
+                    "phone": "0936 829 966",
                     "time": "09:00 AM - 06:00 PM",
                     "price": "20.000đ - 33.000đ"
                 },
@@ -3327,6 +3769,7 @@
                     "name": "Cháo Sườn Sụn - Đội Cấn",
                     "address": "101 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/WYiBHkx.jpg",
+                    "phone": "0983 450 185",
                     "time": "11:30 AM - 06:00 PM",
                     "price": "7.000đ - 20.000đ"
                 },
@@ -3334,6 +3777,7 @@
                     "name": "Bánh Mì V+ - Đội Cấn",
                     "address": "132 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/qLKwBtU.jpg",
+                    "phone": "024 63 293 305",
                     "time": "07:00 AM - 09:00 PM",
                     "price": "20.000đ - 20.000đ"
                 },
@@ -3341,6 +3785,7 @@
                     "name": "Cột Điện Quán - Bánh Mì Chảo - Đội Cấn",
                     "address": "292 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/1DAeayM.jpg",
+                    "phone": "024 63 293 305",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -3348,6 +3793,7 @@
                     "name": "Gimbab Hàn Quốc - Đội Cấn",
                     "address": "15/135 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/4fagvYu.jpg",
+                    "phone": "024 63 293 305",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "50.000đ - 100.000đ"
                 },
@@ -3355,6 +3801,7 @@
                     "name": "Bánh Tráng Nướng - Vỉa Hè Đội Cấn",
                     "address": "Đối Diện 343 Đội Cấn, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/wFzIZCh.jpg",
+                    "phone": "024 63 293 305",
                     "time": "05:00 PM - 10:00 PM",
                     "price": "10.000đ - 50.000đ"
                 } 
@@ -3367,6 +3814,7 @@
                     "name": "Chíp Chíp Quán - Phan Đình Giót",
                     "address": "43 Phan Đình Giót, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/UhRCvdC.jpg",
+                    "phone": "024 63 293 305",
                     "time": "09:00 AM - 09:30 PM",
                     "price": "20.000đ - 30.000đ"
                 },
@@ -3374,6 +3822,7 @@
                     "name": "Vịt Cỏ Vân Đình - Phan Đình Giót",
                     "address": "109 Phan Đình Giót, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/MAyxThC.jpg",
+                    "phone": "0916 093 345",
                     "time": "08:00 AM - 10:30 PM",
                     "price": "100.000đ - 300.000đ"
                 }     
@@ -3386,6 +3835,7 @@
                     "name": "Kodo Cafe Plus - Nguyễn Chí Thanh",
                     "address": "126 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/GsHCJtd.jpg",
+                    "phone": "024 32 009 956",
                     "time": "0:00 - 11:00 PM",
                     "price": "30.000đ - 80.000đ"
                 },
@@ -3393,6 +3843,7 @@
                     "name": "Pepperonis Restaurant - Nguyễn Chí Thanh",
                     "address": "114B2 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/DrpU3cJ.jpg",
+                    "phone": "024 37 710 160",
                     "time": "08:00 PM - 11:00 PM",
                     "price": "30.000đ - 220.000đ"
                 },
@@ -3400,6 +3851,7 @@
                     "name": "Món Huế - Nguyễn Chí Thanh",
                     "address": "35 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/QnDFjpv.jpg",
+                    "phone": "024 85 868 899",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "30.000đ - 200.000đ"
                 },
@@ -3407,6 +3859,7 @@
                     "name": "Street Sushi - Nguyễn Chí Thanh",
                     "address": "11 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/BAVcsgH.jpg",
+                    "phone": "0936 212 719",
                     "time": "05:30 PM - 11:00 PM",
                     "price": "16.000đ - 60.000đ"
                 },
@@ -3414,6 +3867,7 @@
                     "name": "Phở Hiền - Nguyễn Chí Thanh",
                     "address": "138 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/GOKSnBU.jpg",
+                    "phone": "024 37 151 036",
                     "time": "06:30 PM - 10:00 PM",
                     "price": "30.000đ - 45.000đ"
                 },
@@ -3421,6 +3875,7 @@
                     "name": "Bánh Mì Cô Long - Nguyễn Chí Thanh",
                     "address": "29 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/rMVDhFf.jpg",
+                    "phone": "0903 461 289",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 100.000đ"
                 },
@@ -3428,6 +3883,7 @@
                     "name": "Isushi Buffet Nhật Bản - Nguyễn Chí Thanh",
                     "address": "16 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/J7JDKLK.jpg",
+                    "phone": "024 37 246 865",
                     "time": "10:00 AM - 10:30 PM",
                     "price": "200.000đ - 500.000đ"
                 }       
@@ -3440,6 +3896,7 @@
                     "name": "Bò 36 Món - Nguyễn Chí Thanh",
                     "address": "101B Ngõ 29 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/N7tSBas.jpg",
+                    "phone": "024 37 246 865",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "100.000đ - 300.000đ"
                 },
@@ -3447,6 +3904,7 @@
                     "name": "Thánh Lẩu - Nguyễn Chí Thanh",
                     "address": "129 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/EAH9Z7r.jpg",
+                    "phone": "0986 966 886",
                     "time": "Trưa: : 10:30 AM - 02:00 PM | Tối:: 05:30 PM - 10:00 PM",
                     "price": "300.000đ - 1.000.000đ"
                 },
@@ -3454,6 +3912,7 @@
                     "name": "Vị Quảng - Ẩm Thực Miền Trung - Nguyễn Chí Thanh",
                     "address": "109 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
                     "image": "http://i.imgur.com/g01cgoM.jpg",
+                    "phone": "024 38 451 999",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "10.000đ - 450.000đ"
                 },
@@ -3461,6 +3920,7 @@
                     "name": "Ngọc Thủy - Cơm Gà Tam Kỳ - Nguyễn Chí Thanh",
                     "address": "Kiot 2 Ngõ 107 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/1sd6xEQ.jpg",
+                    "phone": "0989 329 358",
                     "time": "10:00 AM - 09:30 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -3468,6 +3928,7 @@
                     "name": "Ẩm Thực Đông Dương - Nguyễn Chí Thanh",
                     "address": "8 Ngõ 91 Nguyễn Chí Thanh, Quận Ba Đình, Hà Nội",
                     "image": "http://i.imgur.com/amxPcDn.jpg",
+                    "phone": "024 37 379 379",
                     "time": "09:00 AM - 10:30 PM",
                     "price": "200.000đ - 2.000.000đ"
                 }     
@@ -3480,6 +3941,7 @@
                     "name": "Ngân Hà - Ẩm Thực Hàn Quốc",
                     "address": "25 Ngõ 56 Lê Văn Hiến, P. Đức Thắng, Quận Bắc Từ Liêm, Hà Nội",
                     "image": "http://i.imgur.com/rVr7WNU.jpg",
+                    "phone": "0972 474 989",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 200.000đ"
                 }    
@@ -3492,6 +3954,7 @@
                     "name": "Quán 32 - Bia Hơi Hà Nội",
                     "address": "QL32, Trạm Trôi, Hoài Đức, Hà Nội",
                     "image": "http://i.imgur.com/zjftyTV.jpg",
+                    "phone": "024 32 568 568",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "50.000đ - 100.000đ"
                 }   
@@ -3504,6 +3967,7 @@
                     "name": "Bánh Cuốn Nóng - Dương Quảng Hàm",
                     "address": "9 Dương Quảng Hàm, P. Quan Hoa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/twazogq.jpg",
+                    "phone": "024 32 568 568",
                     "time": "10:00 AM - 10:00 PM",
                     "price": "20.000đ - 55.000đs"
                 },
@@ -3511,6 +3975,7 @@
                     "name": "Bánh Mì Donner Kebab",
                     "address": "81 Dương Quảng Hàm, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/HDY19hx.jpg",
+                    "phone": "024 32 568 568",
                     "time": "06:00 AM - 09:00 PM",
                     "price": "10.000đ - 20.000đ"
                 },
@@ -3518,6 +3983,7 @@
                     "name": "Cơm Ngon Bắc Ninh",
                     "address": "117 Dương Quảng Hàm, P. Quan Hoa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/eMKXInK.jpg",
+                    "phone": "024 32 568 568",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "25.000đ - 150.000đ"
                 },
@@ -3525,6 +3991,7 @@
                     "name": "Bún Đậu Mắm Tôm",
                     "address": "127 Dương Quảng Hàm, P. Quan Hoa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/zITTxho.jpg",
+                    "phone": "024 32 568 568",
                     "time": " 08:00 AM - 10:00 PM",
                     "price": "25.000đ - 150.000đ"
                 },
@@ -3532,6 +3999,7 @@
                     "name": "Đức Trang Bakery",
                     "address": "133 Dương Quảng Hàm, P. Quan Hoa, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/6pfAYBt.jpg",
+                    "phone": "024 32 568 568",
                     "time": "08:00 AM - 09:00 PM",
                     "price": "50.000đ - 500.000đ"
                 }   
@@ -3544,6 +4012,7 @@
                     "name": "Bún, Miến, Lẩu - Chùa Hà",
                     "address": "3 Chùa Hà, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/4WA0BEh.jpg",
+                    "phone": "024 32 568 568",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "30.000đ - 50.000đ"
                 }, 
@@ -3551,6 +4020,7 @@
                     "name": "Bún Miến Ngan - Chùa Hà",
                     "address": "Chùa Hà, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/Yk1pqVx.jpg",
+                    "phone": "024 32 568 568",
                     "time": "07:00 AM - 10:30 PM",
                     "price": "20.000đ - 30.000đ"
                 }  
@@ -3563,6 +4033,7 @@
                     "name": "Korea House - Đồ Ăn Hàn Quốc",
                     "address": "89 Doãn Kế Thiện, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/72ECc9E.jpg",
+                    "phone": "024 32 568 568",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "30.000đ - 200.000đ"
                 }, 
@@ -3570,6 +4041,7 @@
                     "name": "Bún Bò Huế - Doãn Kế Thiện",
                     "address": "65 Doãn Kế Thiện, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/EsQmrQg.jpg",
+                    "phone": "024 38 371 271",
                     "time": "07:00 AM - 10:00 PM",
                     "price": "20.000đ - 33.000đ"
                 },
@@ -3577,6 +4049,7 @@
                     "name": "Sừng Quăn - Lẩu Dê Tứ Xuyên",
                     "address": "Tầng 1, 9 Phạm Văn Đồng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/mgLfopJ.jpg",
+                    "phone": "024 73 012 268",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "150.000đ - 500.000đ"
                 },
@@ -3584,6 +4057,7 @@
                     "name": "Xúc Xích, Nem Chua Rán",
                     "address": "Đại Học Quốc Gia, Phạm Văn Đồng, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/od10Sdx.jpg",
+                    "phone": "024 73 012 268",
                     "time": "5:00 PM - 10:00 PM",
                     "price": "10.000đ - 50.000đ"
                 },
@@ -3591,6 +4065,7 @@
                     "name": "Bún Đậu Lòng Rán - Doãn Kế Thiện",
                     "address": "35 Doãn Kế Thiện, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/e6Q3559.jpg",
+                    "phone": "024 73 012 268",
                     "time": "08:00 AM - 03:00 PM",
                     "price": "30.000đ - 50.000đ"
                 }  
@@ -3603,6 +4078,7 @@
                     "name": "Mộc Thanh Quán Cafe",
                     "address": "29 Đào Nguyên B, Gia Lâm, Hà Nội",
                     "image": "http://i.imgur.com/MvgssCj.jpg",
+                    "phone": "0985 455 782",
                     "time": "05:00 PM - 11:00 PM",
                     "price": "15.000đ - 30.000đ"
                 }
@@ -3615,6 +4091,7 @@
                     "name": "Nhất Nướng",
                     "address": "Trần Vỹ (Lê Đức Thọ Kéo Dài), Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/eZrw6Xc.jpg",
+                    "phone": "024 66 893 333",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "20.000đ - 165.000đ"
                 }, 
@@ -3622,6 +4099,7 @@
                     "name": "Huệ Chi - Bánh Đa Cá Rô",
                     "address": "9 Nguyễn Khả Trạc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/h0pw7WA.jpg",
+                    "phone": "024 66 893 333",
                     "time": "06:45 AM - 08:15 PM",
                     "price": "20.000đ - 45.000đ"
                 },
@@ -3629,6 +4107,7 @@
                     "name": "Minh Anh - Phở Sạch Bắc Hà & Gà Cựa Lào Cai",
                     "address": "11 Nguyễn Khả Trạc, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/0ZOrQAx.jpg",
+                    "phone": "01636 541 965",
                     "time": "05:00 AM - 02:00 PM",
                     "price": "40.000đ - 100.000đ"
                 },
@@ -3636,6 +4115,7 @@
                     "name": "Nghé Ọ Quán - Lẩu Nướng Các Loại",
                     "address": "Trấn Vỹ, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/oBbvaLC.jpg",
+                    "phone": "01636 541 965",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 300.000đ"
                 },
@@ -3643,6 +4123,7 @@
                     "name": "Bùi Gia - Phở Gà Ta Phố Cổ",
                     "address": "148 Mai Dịch, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/KLiZOkC.jpg",
+                    "phone": "01636 541 965",
                     "time": "06:30 AM - 10:00 PM",
                     "price": "25.000đ - 35.000đ"
                 }
@@ -3652,9 +4133,10 @@
             "id" : "68",
             "foody" : [
                 {
-                    "name": "Gà Tươi Kinh Bắc ",
+                    "name": "Gà Tươi Kinh Bắc",
                     "address": "42 Cầu Bươu , Thanh Trì, Hà Nội",
                     "image": "http://i.imgur.com/HBDNuKS.jpg",
+                    "phone": "024 36 856 262",
                     "time": "09:00 AM - 11:00 PM",
                     "price": "80.000đ - 200.000đ"
                 },
@@ -3662,6 +4144,7 @@
                     "name": "Fresh Garden Bakery",
                     "address": "68 Cầu Bươu, Thanh Trì, Hà Nội",
                     "image": "http://i.imgur.com/RqrPVhB.jpg",
+                    "phone": "024 36 856 262",
                     "time": " 06:30 AM - 08:30 PM",
                     "price": "15.000đ - 100.000đ"
                 },
@@ -3669,6 +4152,7 @@
                     "name": "Bánh Cuốn & Bún Chả",
                     "address": "173 Tổ 15 Cầu Bươu, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/h2VqtB8.jpg",
+                    "phone": "024 36 856 262",
                     "time": "Trưa: 11:00 AM - 01:30 PM | Tối: 04:30 PM - 07:00 PM",
                     "price": "15.000đ - 50.000đ"
                 },
@@ -3676,6 +4160,7 @@
                     "name": "Lẩu Đuôi Bò",
                     "address": "Cầu Bươu, Thanh Trì, Hà Nội",
                     "image": "http://i.imgur.com/jYaTmug.jpg",
+                    "phone": "01645 191 919",
                     "time": "09:00 AM - 10:00 PM",
                     "price": "50.000đ - 200.000đ"
                 }    
@@ -3688,6 +4173,7 @@
                     "name": "Thuỷ - Bún, Miến Ngan",
                     "address": "53D5 KGD Yên Phúc, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/2nG7NAv.jpg",
+                    "phone": "0987 899 772",
                     "time": "06:30 AM - 09:00 PM",
                     "price": "25.000đ - 50.000đ"
                 },
@@ -3695,6 +4181,7 @@
                     "name": "Hà Jotj - Cafe, Bún Đậu",
                     "address": "30D5 Khu Giãn Dân Yên Phúc, Phúc La, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/0OnMuc9.jpg",
+                    "phone": "0987 899 772",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "30.000đ - 50.000đ"
                 },
@@ -3702,6 +4189,7 @@
                     "name": "Minh Ngọc - Bún, Bánh Cuốn Nóng",
                     "address": "38 D5 KGD Yên Phúc, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/shrygc9.jpg",
+                    "phone": "0987 899 772",
                     "time": " 06:30 AM - 09:00 PM",
                     "price": "20.000đ - 50.000đ"
                 },
@@ -3709,6 +4197,7 @@
                     "name": "Bánh Mì Duy Béo",
                     "address": "253 Phùng Hưng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/cvfEcXs.jpg",
+                    "phone": "0987 899 772",
                     "time": "06:00 AM - 04:00 PM",
                     "price": "17.000đ - 20.000đ"
                 },
@@ -3716,6 +4205,7 @@
                     "name": "Bún Bò Huế",
                     "address": "190 Phùng Hưng, Quận Hà Đông, Hà Nội",
                     "image": "http://i.imgur.com/FXM0et7.jpg",
+                    "phone": "0987 899 772",
                     "time": "06:30 AM - 01:30 PM",
                     "price": "25.000đ - 40.000đ"
                 }      
@@ -3728,6 +4218,7 @@
                     "name": "KFC - Hoàng Quốc Việt",
                     "address": "106 Hoàng Quốc Việt, P. Nghĩa Tân, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/MkcImGq.jpg",
+                    "phone": "1900 6886",
                     "time": "08:30 AM - 10:00 PM",
                     "price": "50.000đ - 110.000đ"
                 },
@@ -3735,6 +4226,7 @@
                     "name": "Ngự Bình - Bún Bò Huế Gia Truyền",
                     "address": "Ngõ 387 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/A41c1K7.jpg",
+                    "phone": "1900 6886",
                     "time": "08:00 AM - 10:00 PM",
                     "price": "20.000đ - 55.000đ"
                 },
@@ -3742,13 +4234,15 @@
                     "name": "Táo Phớ, Bánh Mì Thịt Xiên - Nghĩa Tân",
                     "address": "Ngõ 477 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/MBPBItz.jpg",
+                    "phone": "1900 6886",
                     "time": "09:00 AM - 09:00 PM",
                     "price": "6.000đ - 22.000đ"
                 },
                 {
-                    "name": "Bún Riêu - Hoàng Quốc Việts",
+                    "name": "Bún Riêu - Hoàng Quốc Việt",
                     "address": "Ngõ 385 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội",
                     "image": "http://i.imgur.com/R9vj1s5.jpg",
+                    "phone": "1900 6886",
                     "time": "06:00 AM - 02:00 PM",
                     "price": "20.000đ - 30.000đ"
                 }    
